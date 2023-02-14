@@ -17,6 +17,7 @@
 ## 2.2 Broadcasting Rules
 
 - **2.2.1**&emsp;Teams are allowed to stream or record games in any way they would like. CSC only asks that any streams involving league games be “safe for work”. Recording of games and the saving of game replays is not required. CSC reserves the right to broadcast your games on our official Twitch/YouTube channels and to be able to spectate for the purpose of (re)broadcasting any league games.
+- **2.2.2**&emsp;With consent from both teams, the media committee may delay the start of a match by up to 15 minutes from its scheduled time in order to resolve broadcast issues. Once the knife round starts, the match may not be interrupted for any broadcast-related reasons.
 
 &emsp;
 

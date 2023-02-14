@@ -4,15 +4,17 @@
 
 ## 5.1	General Transactions
 
-- **5.1.1**&emsp;Transaction deadline is 9:30 PM ET, 2 match days before the start of playoffs.
+- **5.1.1**&emsp;Transactions are expected to be executed in good faith. Abusing the transaction system is subject to admin and/or transaction-placed restrictions on any and all transactions
 
-- **5.1.2**&emsp;Any transaction requests posted 30 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
+- **5.1.2**&emsp;Transaction deadline is 9:30 PM ET, 2 match days before the start of playoffs.
 
-- **5.1.3**&emsp;Transaction requests posted after 30 minutes before match start time will be handled as follows:
+- **5.1.3**&emsp;Any transaction requests posted 30 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
-    - **5.1.3.1**&emsp;Temporary Free Agent contract requests will be considered invalid;
+- **5.1.4**&emsp;Transaction requests posted after 30 minutes before match start time will be handled as follows:
 
-    - **5.1.3.2**&emsp;Other transactions (e.g. trades, cuts, Free Agent pickups) will be processed after that day's matches complete and before the next match day's games start.
+    - **5.1.4.1**&emsp;Temporary Free Agent contract requests will be considered invalid;
+
+    - **5.1.4.2**&emsp;Other transactions (e.g. trades, cuts, Free Agent pickups) will be processed after that day's matches complete and before the next match day's games start.
 
 &emsp;
 
