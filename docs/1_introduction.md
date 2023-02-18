@@ -1,7 +1,7 @@
 # 1 Introduction
 The Counter Strike Confederation (CSC) is a different kind of Counter Strike Global Offensive experience: a persistent and evolving league designed to closely resemble and operate like a professional sports league, with General Managers who draft players, make trades, set rosters, and compete to be the powerhouse that every team strives to beat the following season. Our ultimate goal is to create a friendly environment for people to play competitive Counter Strike, regardless of their skill level.
 
-As of right now there are four leagues: Premier, Elite, Challenger, and Prospect, with the differentiation being as close to the middle of the skill range as possible.
+As of right now there are five leagues: Premier, Elite, Challenger, Contender, and Prospect, with the differentiation being as close to the middle of the skill range as possible.
 Improvement in players should be expected, widening the skill gap as the season progresses. Don’t be surprised to see someone a tier or two lower than their current ranks suggest!
 
 Admins, General Managers (GMs), and staff members can also be players. While in an ideal world there would be separation between many of these roles, we have found that the most passionate people want to be involved in more than one way; we can attribute much of our success to this. Therefore, we permit individuals to take roles that may potentially have conflicts of interest, and build systems into the league that minimize the effect these may have on the league and maximize fairness.
