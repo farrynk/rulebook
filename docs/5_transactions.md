@@ -6,6 +6,8 @@
 
 - **5.1.1**&emsp;Transactions are expected to be executed in good faith. Abusing the transaction system is subject to admin and/or transaction-placed restrictions on any and all transactions
 
+    - **5.1.1.1**&emsp;Bypassing transaction deadline to cut and sign another player is allowed under extreme circumstances based on approval by TM head/Admins. You may only sign a player under this rule if that FA was an FA not on waivers at the time of deadline. The cut player may not play the rest of the season. This is to be used if a player has an extended unavailability or extended lack of communication. Evidence of this must be given to the TM head/Admins.
+
 - **5.1.2**&emsp;Transaction deadline is 9:30 PM ET, 2 match days before the start of playoffs.
 
 - **5.1.3**&emsp;Any transaction requests posted 30 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
@@ -20,9 +22,11 @@
 
 ## 5.2	Waivers
 
-- **5.2.1**&emsp;A player claimed on waivers can only be claimed onto the corresponding tier the player was demoted or cut from.
+- **5.2.1**&emsp;A player claimed on waivers can only be claimed onto the corresponding tier the player was cut from with two exceptions.
 
     - **5.2.1.1**&emsp;If a player is on waivers before roster lock because of an absence from the league, they may be FA claimed onto any tier they are eligible for.
+
+    - **5.2.1.2**&emsp;If a player is promoted they will go onto waivers in their original tier.
 
 - **5.2.2**&emsp;Waiver order will be determined by the team’s record, inverse to the tier in which the transaction takes place. Waivers will be updated after every 2nd match day.
 
@@ -136,11 +140,13 @@
 
 ## 5.6	Promotion/Relegation
 
-- **5.6.1**&emsp;If a player is promoted pre-draft, they must remain on the team they were promoted to unless they are cut.
+- **5.6.1**&emsp;If a player is promoted pre-draft, the franchise that drafted the player cannot demote that player.
 
-    - **5.6.1.1**&emsp;If they are cut, they will go on waivers for their original tier and they are eligible to play for their original tier again for any franchise. They are then eligible to play for the tier they were promoted from for the franchise they started on, but that franchise must still wait two match days before they can sign them again.
+    - **5.6.1.1**&emsp;If the player is cut, they will become an FA and go on waivers for their original tier.
 
-- **5.6.2**&emsp;If a player is promoted post-draft, they will remain on the team they were promoted to unless they are cut or demoted.
+    - **5.6.1.2**&emsp;The franchise that cut the player cannot sign them for 2 MDs or use them as a sub. This franchise cannot claim them on waivers.
+
+- **5.6.2**&emsp;If a player is promoted post-draft, they will remain on the team they were promoted to unless they are cut or demoted. If they are cut they will go onto waivers in their original tier.
 
 - **5.6.3**&emsp;A player can only be demoted one tier at a time. This means that a player cannot be relegated from the Elite tier to the Prospect tier, for example. Refer to [Section 4.1.2](4_league-processes.md#41-general-league-notes) for tier hierarchy.
 
