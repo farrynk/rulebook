@@ -29,6 +29,10 @@ body {
   padding-right: 10px;
 }
 
+.embedded .md-grid {
+  margin-left: 10px;
+}
+
 .md-header {
   background-color: transparent;
   box-shadow: none;
