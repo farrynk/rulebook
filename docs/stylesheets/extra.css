@@ -13,9 +13,14 @@
     --md-default-fg-color--light: #c1c2c5;
   }
 
+body {
+  padding-right: 10px;
+}
+
 .md-header {
   background-color: transparent;
   box-shadow: none;
+  margin-top: 15px;
 }
 
 .md-logo {
@@ -33,4 +38,10 @@
 
 .md-sidebar--primary {
   top: -15px !important;
+}
+ 
+@media screen and (max-width: 76.1875em) {
+  .md-main {
+    padding-left: 35px;
+  }
 }
