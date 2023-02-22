@@ -8,6 +8,9 @@ window.addEventListener("message", messageHandler, false);function messageHandle
     currentColorScheme = JSON.parse(localStorage.getItem("/.__palette"))
 
     if (domains.includes(event.origin)){
+        // Set an embedded class on body
+        document.body.classList.add("embedded")
+
         if(event.data === "light" && currentColorScheme.index == 1){
             window.localStorage.setItem("/.__palette", '{"index":0,"color":{"scheme":"default","primary":"","accent":""}}')
             location.reload()
