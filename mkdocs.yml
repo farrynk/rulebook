@@ -1,6 +1,17 @@
 site_name: CSC Rulebook
 site_url: https://rulebook.csconfederation.com
-theme: readthedocs
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+extra_javascript:
+  - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
 nav:
     - Introduction: introduction.md
     - League Info: league-info.md
