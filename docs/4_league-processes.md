@@ -54,7 +54,11 @@
 
 - **4.3.4**&emsp;If a season is ongoing when a contract is signed, that season counts as the first season of the contract, regardless of how much time remains in the season.
 
-- **4.3.5**&emsp;Any player who comes under contract with a GM must remain on an active roster until 2 match days have passed, including pre-season. Attempting to circumvent this by refusing to roster a player under this rule despite their willingness and ability to play may incur punishment from admins.
+- **4.3.5**&emsp;Any player that signs with a franchise (including off-season, preseason, and regular season signings, but excluding players acquired in the draft) must remain on an active roster until 2 match days have passed, including pre-season.
+
+    - **4.3.5.1**&emsp;GMs attempting to circumvent this by refusing to roster a player despite their willingness and ability to play may incur punishment from admins.
+
+    - **4.3.5.2**&emsp;Players may voluntarily opt out of this protection (including being placed on IR). This must be initiated by the player, otherwise A(GM)s may incur punishment from admins.
 
 - **4.3.6**&emsp;Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM’s approval.
 
