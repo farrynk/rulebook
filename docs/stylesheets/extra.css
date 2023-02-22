@@ -12,3 +12,25 @@
     --md-typeset-color: #c1c2c5;
     --md-default-fg-color--light: #c1c2c5;
   }
+
+.md-header {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.md-logo {
+  display: none !important;
+}
+
+.md-header__title {
+  height: 0px;
+  color: transparent;
+}
+
+.md-main {
+  margin-top: -95px;
+}
+
+.md-sidebar--primary {
+  top: -15px !important;
+}
