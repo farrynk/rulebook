@@ -76,10 +76,18 @@
 - **2.6.2**&emsp;The league is led by the 5 Admins of CSC, who primarily work with long-term decisions and projects.
 
     - **2.6.2.1**&emsp;An admin candidate must meet certain criteria in order to be an eligible candidate.
-        - **2.5.2.1.1**&emsp;You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former admin (which includes admins at the end of their term) who is not running. In order to be officially backed by the pool, you must gain a vote of at least 20% of the pool (rounded up) in order to be eligible to be an active candidate for admin election discussion. You are encouraged to pursue more than this as if a backer decides to run after backing you they are eliminated from the pool.
-        - **2.5.2.1.2**&emsp;You must have participated in at least one season of CSC
-        - **2.5.2.1.3**&emsp;You may not currently have more than 1 serious strike or 2 normal strikes
-        - **2.5.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
+
+        - **2.6.2.1.1**&emsp; You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former admin (which includes admins at the end of their term) who is not running and also satisfies 2.6.2.1.2-4. In order to be officially backed by the pool, you must gain a vote of at least 20% of the pool (rounded up).
+
+            - **2.6.2.1.1.1**&emsp;Each backer simply decides whether or not they think each applicant should be a candidate. They need to do this for all candidates and should provide explanation to the pool as appropriate.
+
+            - **2.6.2.1.1.2**&emsp;Once the backing process is concluded, approved candidates will continue the process into admin election discussions without any information on the backing process given out to the public except for the fact they were approved by the backer pool.
+
+        - **2.6.2.1.2**&emsp;You must have participated in at least one season of CSC
+
+        - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
+
+        - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
 
 - **2.6.3**&emsp;The league’s day-to-day activities are directed by Admins.
 
