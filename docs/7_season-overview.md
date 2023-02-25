@@ -32,7 +32,7 @@
 
     - **7.1.8.5**&emsp;If a GM has more than 1 player in the same round (determined by MMR), they will be forced to use a pick higher than the current if the GM doesn’t have enough picks in that round. They can also choose to cut one player. They can not use a lower pick to keep a player.
 
-- **7.1.9**&emsp;If a GM does not have enough picks available in that tier’s draft, they must give up current players to waivers/free agency to accommodate.
+- **7.1.9**&emsp;If a GM does not have enough picks available in that tier’s draft, they must give up current players to free agency to accommodate.
 
 - **7.1.10**&emsp;There may be Admin overrulings to trades made during the season for trades out of the ordinary, at the Admins’ discretion.
 
@@ -70,9 +70,9 @@
 
 - **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Roster Lock date. In this time, there will be 2 cut days.
 
-    - **8.1.1.1**&emsp;The first cut time is the night of the second pre-season match at 11:59pm EST. Teams must be at a maximum of 6 rostered players.
+    - **8.1.1.1**&emsp;The first cut time is the day after the second pre-season match at 11:59am EST. Teams must be at a maximum of 6 rostered players.
 
-    - **8.1.1.2**&emsp;The second cut day is the night of the third pre-season match at 11:59pm EST. Teams must be at a maximum of 5 rostered players.
+    - **8.1.1.2**&emsp;The second cut day is the day after the third pre-season match at 11:59am EST. Teams must be at a maximum of 5 rostered players.
 
 - **8.1.2**&emsp;A player who was drafted must play in a preseason match (a scrim doesn't count) before being cut in the preseason. A player who is unresponsive, unwilling, or unavailable at game time is excluded from this requirement. Evidence of this should be shown in a GM’s transaction channel.
 
