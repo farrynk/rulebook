@@ -62,7 +62,21 @@
 
 - **4.3.6**&emsp;Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM’s approval.
 
-    - **4.3.6.1**&emsp;If a player is cut for refusing to play for their team, they will become a permanent free agent for 4 match days or until match day 8, whichever comes sooner. If the issue occurs after match day 8, they will become a permanent free agent for the remainder of the season.
+    - **4.3.6.1**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below based on their circumstances.
+
+        - **4.3.6.1.1**&emsp;This is their first incident in the current season and...
+
+            - There is evidence of a toxic environment or other valid reason as judged by admins, then the player will become a PFA for 1 Match Day. If the evidence is actionable upon former teammates this penalty may be waived by admins.
+
+            - There is no provided evidence, then the player with become a PFA for 4 Match Days or the rest of the season, whichever is less.
+
+            - There is evidence that the player is refusing to play in order to force an exit and only play on one specific team, then the player will be a PFA for the remainder of the season.
+
+        - **4.3.6.1.2**&emsp;This is not their first incident in the current season and...
+
+            - There has been no provided evidence in any instance,  then the player will be a PFA for the remainder of the season.
+
+            - There has been evidence of a toxic environment(s) or other valid reason(s) as judged by admins, then the player will be given punishment by admins' discretion.
 
 - **4.3.7**&emsp;Players must only play for the team they are contracted with, except where indicated otherwise in the rules.
 
