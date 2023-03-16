@@ -24,9 +24,7 @@
 
 - **5.2.1**&emsp;A player claimed on waivers can only be claimed onto the corresponding tier the player was cut from with two exceptions.
 
-    - **5.2.1.1**&emsp;If a player is on waivers before roster lock because of an absence from the league, they may be FA claimed onto any tier they are eligible for.
-
-    - **5.2.1.2**&emsp;If a player is promoted they will go onto waivers in their original tier.
+    - **5.2.1.1**&emsp;If a player is promoted they will go onto waivers in their original tier.
 
 - **5.2.2**&emsp;Waiver order will be determined by the team’s record, inverse to the tier in which the transaction takes place. Waivers will be updated after every 2nd match day.
 
@@ -36,13 +34,11 @@
 
 - **5.2.4**&emsp;Waivers at the start of the season will be based on the inverse of the draft, per tier. If a team had the last pick in the draft, they will receive the first spot on waivers.
 
-- **5.2.5**&emsp;The waiver order will continue into Offseason. We will use this waiver order for cuts made after the resigning period, prior to players being declared for the draft.
+- **5.2.5**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
-- **5.2.6**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
+- **5.2.6**&emsp;Under no circumstance will GMs be put on waivers.
 
-- **5.2.7**&emsp;Under no circumstance will GMs be put on waivers.
-
-- **5.2.8**&emsp;Cut players who are not picked up on waivers can explore Free Agency without any restrictions. Free Agency is detailed in the rulebook under 5.7.
+- **5.2.7**&emsp;Cut players who are not picked up on waivers can explore Free Agency without any restrictions. Free Agency is detailed in the rulebook under 5.7.
 
 &emsp;
 
@@ -130,7 +126,7 @@
 
     - **5.5.2.4**&emsp;Players who request to be cut to explore the draft in the off season become Draft Eligible.
 
-- **5.5.3**&emsp;In addition to becoming FAs, contracted players cut in the preseason or regular season go through a waiver period. The waiver process is detailed in the rulebook under 5.2.
+- **5.5.3**&emsp;In addition to becoming FAs, contracted players cut in the regular season go through a waiver period. The waiver process is detailed in the rulebook under [5.2](5_transactions.md#52-waivers).
 
 - **5.5.4**&emsp;Players who enter the draft uncontracted (DE/FA) in the current season do not go through waivers if they are cut prior to the Roster Lock.
 
