@@ -97,7 +97,7 @@
 
     - **2.6.5.1**&emsp;A GM or AGM may have any Staff job other than Transaction Manager, Admin.
 
-        - **2.5.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side. 
+        - **2.5.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side.
 
     - **2.6.5.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming Staff. The restrictions on which jobs may be taken still apply in addition to the restrictions in this rule.
 
@@ -111,7 +111,7 @@
 
 &emsp;
 
-## 2.7	Transactions (see Section 5 for relevant rules)
+## 2.7 Transactions (see Section 5 for relevant rules)
 
 - **2.7.1**&emsp;A player under contract with a franchise may be cut and placed on waivers. A player on waivers may have their contract claimed by another franchise. Several different circumstances may lead to a player being on waivers.
 
@@ -131,7 +131,7 @@
 
 &emsp;
 
-## 2.8	Clarifications
+## 2.8 Clarifications
 
 - **2.8.1**&emsp;The rules here and elsewhere are ultimately defined and interpreted by the Admins of CSC. The Admins may fill in for any other role for decision-making as necessary.
 
@@ -139,7 +139,7 @@
 
 &emsp;
 
-## 2.9	Terms to Know
+## 2.9 Terms to Know
 
 - **2.9.1**&emsp;A tier is a group of teams who play against each other during the season.
 

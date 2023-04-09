@@ -2,7 +2,7 @@
 
 ---
 
-## 5.1	General Transactions
+## 5.1 General Transactions
 
 - **5.1.1**&emsp;Transactions are expected to be executed in good faith. Abusing the transaction system is subject to admin and/or transaction-placed restrictions on any and all transactions
 
@@ -20,7 +20,7 @@
 
 &emsp;
 
-## 5.2	Waivers
+## 5.2 Waivers
 
 - **5.2.1**&emsp;A player claimed on waivers can only be claimed onto the corresponding tier the player was cut from with two exceptions.
 
@@ -42,7 +42,7 @@
 
 &emsp;
 
-## 5.3	Trades
+## 5.3 Trades
 
 - **5.3.1**&emsp;Trades are expected to be executed in good faith. Abusing the trading system is subject to admin and/or transaction-placed restrictions on trading/transactions.
 
@@ -78,7 +78,7 @@
 
 &emsp;
 
-## 5.4	Substitutions
+## 5.4 Substitutions
 
 - **5.4.1**&emsp;Any player may fill in as a sub in a higher tier if they wish.
 
@@ -108,7 +108,7 @@
 
 &emsp;
 
-## 5.5	Cuts
+## 5.5 Cuts
 
 - **5.5.1**&emsp;All players may be subject to be cut from their team for any reason by their GM.
 
@@ -116,7 +116,7 @@
 
     - **5.5.2.1**&emsp;Pre draft, a player who requests to get cut due to an inability to play is removed from the active player pool. They may sign up to play as a PFA.
 
-        - **5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract. 
+        - **5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract.
 
         - **5.5.2.1.2**&emsp;If, during that same season, the player returns to the league post-draft, they must return as a PFA
 
@@ -134,7 +134,7 @@
 
 &emsp;
 
-## 5.6	Promotion/Relegation
+## 5.6 Promotion/Relegation
 
 - **5.6.1**&emsp;If a player is promoted pre-draft, the franchise that drafted the player cannot demote that player.
 
@@ -170,7 +170,7 @@
 
 &emsp;
 
-## 5.7	Free Agents
+## 5.7 Free Agents
 
 - **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See [Section 5.2](5_transactions.md#52-waivers) for Waiver rules.
 
@@ -200,7 +200,7 @@
 
 &emsp;
 
-## 5.8	Permanent Free Agents
+## 5.8 Permanent Free Agents
 
 - **5.8.1**&emsp;Players will be allowed to sign up for the league as a permanent free agent after the draft. By doing this, they waive their ability to join a team on anything other than a temporary, one match day contract. All normal temporary substitution rules will apply to them. They will still have an MMR value and a minimum tier appointed to them by the league.
 

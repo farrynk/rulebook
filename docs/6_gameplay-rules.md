@@ -48,7 +48,7 @@
 
 &emsp;
 
-## 6.2	Game Servers
+## 6.2 Game Servers
 
 - **6.2.1**&emsp;CSC uses its own game servers for matches.
 
@@ -74,7 +74,7 @@
 
 &emsp;
 
-## 6.3	Bugs and Exploits
+## 6.3 Bugs and Exploits
 
 - **6.3.1**&emsp;The intentional use of any bugs, glitches, or errors in the game is forbidden. It is up to the admin’s discretion to determine whether or not the use of said bugs had an effect on the match, and whether or not he will award rounds, or the match to the opposing team, or to force the match to be replayed. The usage of the following bugs is strictly forbidden, if any bug is used, which is not listed in the following rule, it is at the admin’s discretion whether or not a punishment is necessary.
 
@@ -97,7 +97,7 @@
 
 &emsp;
 
-## 6.4	Disconnect Rules
+## 6.4 Disconnect Rules
 
 - **6.4.1**&emsp;If a player disconnects mid-game, they are allowed to join back as soon as possible.
 
@@ -109,7 +109,7 @@
 
 &emsp;
 
-## 6.5	Game Results
+## 6.5 Game Results
 
 - **6.5.1**&emsp;It is the responsibility of the GMs or Captains of both teams to report the scores for their match.
 
@@ -121,7 +121,7 @@
 
 &emsp;
 
-## 6.6	Additional Game Rules
+## 6.6 Additional Game Rules
 
 - **6.6.1**&emsp;Using agent skins other than the default on a given map is not allowed for CSC league matches. If a player is using a different skin, the opposing team may clearly request at any time that they unequip all agent skins for the match. The team with the offending player will then take a tech pause to resolve the issue within the next two rounds. This consumes one of the offending team's tech pauses (if no pauses are left the player must still leave and unequip all agent skins). If the team and player do not make this change after being requested, they will be subject to retroactive disciplinary actions. Regardless, the game will be played out.
 

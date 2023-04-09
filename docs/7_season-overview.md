@@ -16,6 +16,8 @@
 
 - **7.1.5**&emsp;All players who wish to play in CSC must enter via the draft process. All new players will be drafted.
 
+    - **7.1.5.1**&emsp;Former players who sign up to return after one season of inactivity will receive FA status (rather than DE) if the player either completed their most recent contract in good standing or ended their last season as a regular FA. Inactivity is defined as either not signing up or signing up as a PFA.
+
 - **7.1.6**&emsp;Free Agents that are not signed by a team by the draft deadline date are placed in the draft.
 
 - **7.1.7**&emsp;The draft consists of all new players who have registered for the season but have not participated in a prior season of CSC, any Free Agents who are placed in the draft, currently rostered players (as keeper picks), and any GMs who intend to play this season but were not on a team at the end of the preceding season.
@@ -31,6 +33,8 @@
     - **7.1.8.4**&emsp;MMR will be calculated and shown what MMR ranges warrant which keeper rounds.
 
     - **7.1.8.5**&emsp;If a GM has more than 1 player in the same round (determined by MMR), they will be forced to use a pick higher than the current if the GM doesn’t have enough picks in that round. They can also choose to cut one player. They can not use a lower pick to keep a player.
+
+    - **7.1.8.6**&emsp;Each team is limited to a maximum of 4 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
 
 - **7.1.9**&emsp;If a GM does not have enough picks available in that tier’s draft, they must give up current players to free agency to accommodate.
 
@@ -126,7 +130,7 @@
 
 - **10.1.1**&emsp;Playoffs will generally begin on the first match day at the conclusion of the regular season in a tier.
 
-- **10.1.2**&emsp;Each tier will play in their own separate playoffs. 
+- **10.1.2**&emsp;Each tier will play in their own separate playoffs.
 
 - **10.1.3**&emsp;During the postseason, the higher seed is the home team, and will decide whether they want to veto first or second. If there is no higher seed, then the teams will be tiebroken according to tiebreaker rules [9.1.4](7_season-overview.md#regular-season) but ignoring conference record.
 

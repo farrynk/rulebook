@@ -1,4 +1,5 @@
 # Appendix
+
 This is a WIP - info not binding.
 &emsp;
 
@@ -43,6 +44,5 @@ This is a WIP - info not binding.
 - **Team** - A Team is one Roster from a Franchise.
 - **Tier** - CSC is broken down into Tiers of play based on predicted skill level. Each season the number of Tiers and number of players in each Tier is adjusted as needed to attempt to create a balanced, competitive environment within the Tier. The current tiers are Premier, Elite, Challenger, Contender, and Prospect.
 - **Waivers** - Certain transactions cause a player to be placed on Waivers. While on Waivers, Teams have the chance to claim the player’s contract based on an order determined differently at different points in the Season.
-
 
 ---

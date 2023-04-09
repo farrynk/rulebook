@@ -2,7 +2,7 @@
 
 ---
 
-## 3.1	General Guidelines
+## 3.1 General Guidelines
 
 - **3.1.1**&emsp;Please see the CSC Behavior Rules for specific behavior and conduct guidelines.
 
@@ -18,7 +18,7 @@
 
 &emsp;
 
-## 3.2	GM Behavior
+## 3.2 GM Behavior
 
 - **3.2.1**&emsp;General Managers are expected to be trustworthy, mature, kind, and focused on helping their players and teams at all times. They should also be regularly available to their players and to staff in order to fulfill their responsibilities.
 
@@ -31,7 +31,7 @@
 
 &emsp;
 
-## 3.3	Privileged Knowledge
+## 3.3 Privileged Knowledge
 
 - **3.3.1**&emsp;Some members of CSC (GMs, AGMs, Staff, Admins, and certain others) may have privileged knowledge. This information falls into one of two groups.
 
@@ -45,11 +45,11 @@
 
 &emsp;
 
-## 3.4	Cheating in CSC
+## 3.4 Cheating in CSC
 
 - **3.4.1**&emsp;Cheating of any kind will not be tolerated in CSC and is grounds for immediate removal from the league and the discord server.
 
-    - **3.4.1.1**&emsp;Use of the following are not to be considered cheating for the purposes of these rules: VibranceGUI, game font changes, game config changes (.cfg files), simple radar, timer resolution, intelligent standby list cleaner. 
+    - **3.4.1.1**&emsp;Use of the following are not to be considered cheating for the purposes of these rules: VibranceGUI, game font changes, game config changes (.cfg files), simple radar, timer resolution, intelligent standby list cleaner.
 
         - **3.4.1.1.1**&emsp;If you have something not on this list and wish to continue using it, please contact an admin for approval.
 
