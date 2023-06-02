@@ -10,7 +10,7 @@
 
 &emsp;
 
-## 4.2	General Manager Rules
+## 4.2 General Manager Rules
 
 - **4.2.1**&emsp;General Managers will be selected by the Admins from candidates who have requested to be considered for a position.
 
@@ -18,7 +18,7 @@
 
         - **4.2.1.1.1**&emsp;A GM is allowed to switch who they have as AGM one time per AGM their franchise is allowed by the rules. For example, if a franchise is allowed one AGM by rule (Rule 4.2.2.1), they are allowed one switch of who is AGM per season. These switches are counted from the release of the tier maker to GMs until the end of the season.
 
-        - **4.2.1.1.2**&emsp;If a GM takes over midseason, they are allowed to switch all of their allotted AGMs one time, without using their allotted switches. 
+        - **4.2.1.1.2**&emsp;If a GM takes over midseason, they are allowed to switch all of their allotted AGMs one time, without using their allotted switches.
 
         - **4.2.1.1.3**&emsp;If a GM has less than their allotted AGMs, appointing an AGM to reach the number allowed does not count as one of their switches.
 
@@ -40,7 +40,7 @@
 
 &emsp;
 
-## 4.3	Player Contracts
+## 4.3 Player Contracts
 
 - **4.3.1**&emsp;Potential contract MMR for each player is determined when transactions open in the offseason using a formula developed by the Admins and Staff, with the assistance of other advisors.
 
@@ -106,7 +106,7 @@
 
 &emsp;
 
-## 4.4	Franchises, Teams, And Rosters
+## 4.4 Franchises, Teams, And Rosters
 
 - **4.4.1**&emsp;Each franchise consists of a different total number of players depending on the amount of teams a GM has within the franchise.
 
@@ -130,7 +130,7 @@
 
 &emsp;
 
-## 4.5	MMR Caps
+## 4.5 MMR Caps
 
 - **4.5.1**&emsp;Each team has an MMR cap. Every team in a tier has the same cap.
 

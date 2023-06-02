@@ -1,4 +1,5 @@
 # Rules Committee Policies
+
 The following policies are self-administered guidelines that help facilitate the operation of Rules Committee. Primarily the body meets during the off-season after elections are finished. Currently the body includes admins, committee heads, player reps, and GM reps.
 &emsp;
 
