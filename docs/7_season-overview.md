@@ -104,7 +104,7 @@
 
 - **9.1.4**&emsp;If two or more teams have the same regular season win percentage, ties between the teams will be resolved using the following tiebreakers (with a precision to the rounded hundredths):
 
-    - **9.1.4.1**&emsp;Conference Record
+    - **9.1.4.1**&emsp;Conference Record (only used if all tied teams are from the same conference)
 
     - **9.1.4.2**&emsp;Head to Head Record (among games between the tied teams)
 

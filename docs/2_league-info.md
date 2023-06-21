@@ -97,7 +97,7 @@
 
     - **2.6.5.1**&emsp;A GM or AGM may have any Staff job other than Transaction Manager, Admin.
 
-        - **2.5.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side.
+        - **2.6.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side.
 
     - **2.6.5.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming Staff. The restrictions on which jobs may be taken still apply in addition to the restrictions in this rule.
 
