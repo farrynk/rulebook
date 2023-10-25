@@ -28,7 +28,7 @@
 
 - **6.1.5**&emsp;Games will be played with the following server settings:
 
-    - **6.1.5.1**&emsp;MR15 (i.e., 15 rounds per half, best of 30)
+    - **6.1.5.1**&emsp;MR12 (i.e., 12 rounds per half, best of 24)
            - Round time: 1 minute 55 seconds
            - Bomb timer: 40 seconds
            - Freeze time: 20 seconds
@@ -56,11 +56,11 @@
 
     - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
 
-- **6.2.2**&emsp;The maps for regular-season games are decided by a veto vote. The captains of each team alternate map vetoes such that the Away Team bans first and the Home Team chooses between the final two maps. Starting sides are decided by a knife round.
+- **6.2.2**&emsp;The maps for regular-season games are decided by a veto vote. The captains of each team alternate map vetoes such that the Away Team bans first and the Home Team chooses between the final two maps. Starting sides are decided by the Away Team.
 
-- **6.2.3**&emsp;The maps for any best-of-1 playoff matches follow the regular-season map veto order, with the higher-seeded team choosing whether to veto first or second. Starting sides are decided by a knife round.
+- **6.2.3**&emsp;The maps for any best-of-1 playoff matches follow the regular-season map veto order, with the higher-seeded team choosing whether to veto first or second. Starting sides are decided by the team to veto first.
 
-- **6.2.4**&emsp;For best-of-3 games, the higher-seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. Each team selects their starting side on their opponent’s map pick. Starting sides for map 3 are decided by a knife round.
+- **6.2.4**&emsp;For best-of-3 games, the higher-seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. Each team selects their starting side on their opponent’s map pick. Starting sides for map 3 are decided by the team to veto first.
 
 - **6.2.5**&emsp;In the case of a server restart, the outcomes of any previous map vetoes, knife rounds, or side selections must be replicated, unless the server was restarted to correct an unintended selection. Both teams must consent to any change unless it is a mandated outcome (e.g. team that should get side choice in playoffs winning knife round).
 
