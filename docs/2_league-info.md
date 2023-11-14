@@ -93,9 +93,9 @@
 
 - **2.6.4**&emsp;The structures of the league are operated by Staff. There are several different roles that fall under the heading of Staff.
 
-- **2.6.5**%emsp;A member that has served a staff ban is permanently ineligible from positions with elevated authority or access to privileged information, listed below for convenience.
+- **2.6.5**&emsp;A member that has served a staff ban is permanently ineligible from positions with elevated authority or access to privileged information, listed below for convenience.
 
-    - **2.6.5.1**%emsp;These restricted positions include:
+    - **2.6.5.1**&emsp;These restricted positions include:
 
         - Admin
         - Mod
