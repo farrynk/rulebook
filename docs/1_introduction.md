@@ -19,7 +19,7 @@ Admins, General Managers (GMs), and staff members can also be players. While in 
 
     - **1.1.2.1**&emsp;Leaving the CSC Discord is a one season ban from any events you are in, except in cases of hacked accounts or certain other issues. If you leave more than 75% into the season, you will be banned for the following season as well.
 
-- **1.1.3**&emsp;Sign up for CSC by using /queue in #bot-input before the close of the signup period each season. Be sure to fully and honestly fill out the form, or you may be rejected without warning.
+- **1.1.3**&emsp;Sign up for CSC by using /signup in #bot-input before the close of the signup period each season. Be sure to fully and honestly fill out the form, or you may be rejected without warning.
 
 - **1.1.4**&emsp;To enter the league as a rookie or PermFA, your highest ranked account reported must have, at minimum, 20 matches played on Faceit. Rookies will have roughly a week after sign ups end to complete their 20 games in order to be a part of the draft. Players that do not reach this deadline but get all 20 games before pre-season game 3 (midnight ET) will be put into the FA pool.
 
