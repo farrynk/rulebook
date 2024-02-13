@@ -102,21 +102,15 @@
 
 - **9.1.3**&emsp;CSC will attempt to stream showcase matches every match day. These are not mandatory, but are recommended!
 
-- **9.1.4**&emsp;If two or more teams have the same regular season win percentage, ties between the teams will be resolved using the following tiebreakers (with a precision to the rounded hundredths):
+- **9.1.4**&emsp;Playoff seeding is determined using the following criteria in order. In the event that 3 or more teams are tied and a tiebreaker results in only a partial break of the tie, tiebreaking for the remaining tied teams will be restarted from the first criterion.
 
-    - **9.1.4.1**&emsp;Conference Record (only used if all tied teams are from the same conference)
-
-    - **9.1.4.2**&emsp;Head to Head Record (among games between the tied teams)
-
-    - **9.1.4.3**&emsp;Head to Head Round Differential (among games between the tied teams)
-
-    - **9.1.4.4**&emsp;Overall Round Win Percentage
-
-    - **9.1.4.5**&emsp;Strength of schedule - avg winrate of each opponent weighted by the number of times you faced that opponent
-
-    - **9.1.4.6**&emsp;(Optional) GM 1v1
-
-    - **9.1.4.7**&emsp;Coin Flip
+    - Regular Season Match Win Percentage
+    - Head to Head Match Win Percentage (used only if all tied teams played the same number of games against each other)
+    - In-Conference Match Win Percentage (used only if all tied teams are from the same conference)
+    - Strength of Schedule (average winrate of each opponent weighted by the number of times the team faced that opponent, rounded to the nearest percent)
+    - Overall Round Win Percentage (rounded to the nearest percent)
+    - (A)GM 1v1 (optional)
+    - Coin flip
 
 - **9.1.5**&emsp;In the event of a tie between 3 or more teams, if any team(s) are able to be separated, each group of remaining tied teams will independently restart the tiebreaking process at 9.1.4.1.
 
