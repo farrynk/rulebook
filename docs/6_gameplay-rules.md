@@ -121,9 +121,9 @@
 
 - **6.5.2**&emsp;Scores should be reported in the score reporting channels for the respective tier the match was played in.
 
-- **6.5.3**&emsp;For the purposes of tiebreakers, an OT result will include 15-15 plus the last overtime scoreline. (EX: A 22-18 score will count as a 19-15 score for tiebreakers)
+- **6.5.3**&emsp;For the purposes of tiebreakers, an OT result will include 12-12 plus the last overtime scoreline. (EX: A 22-18 score will count as a 16-12 score for tiebreakers)
 
-- **6.5.4**&emsp;Forfeits will result in a 16-0 scoreline.
+- **6.5.4**&emsp;Forfeits will result in a 13-0 scoreline.
 
 &emsp;
 
