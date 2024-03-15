@@ -46,6 +46,12 @@
 
     - **6.1.6.2**&emsp;Misuse of timeouts may result in a retroactive forfeit at admin discretion. This includes using technical pauses for tactical purposes and exceeding the total duration/total use limits of their technical pauses. In order to report the offending team, the opposing team must first tell them to unpause in match chat; this serves as the former's only warning. If there is continued misuse or the warning is not quickly heeded, the incident may be reported through a general (mod/admin) ticket. The game shall continue and be played out if possible. A vote of at least all admins but one will result in a retroactive forfeit.
 
+- **6.1.7**&emsp;Live Coaching
+
+    - **6.1.7.1**&emsp;A person may be in both match team comms and spectating the active match at the same time. A spectator or coach may not communicate to players during the match.
+
+    - **6.1.7.2**&emsp;Evidence of a person, who is not actively playing in the match, coaching or providing any kind of competitive assistance during the game may result in a retroactive game forfeit.
+
 &emsp;
 
 ## 6.2 Game Servers
