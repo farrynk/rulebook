@@ -138,9 +138,11 @@
 
 - **5.6.1**&emsp;If a player is promoted pre-draft, the franchise that drafted the player cannot demote that player.
 
-    - **5.6.1.1**&emsp;If the player is cut, they will become an FA and go on waivers for their original tier.
+    - **5.6.1.1**&emsp;If the player is cut, they will become an FA in their original tier.
 
-    - **5.6.1.2**&emsp;The franchise that cut the player cannot sign them for 2 MDs or use them as a sub. This franchise cannot claim them on waivers.
+    - **5.6.1.2**&emsp;The franchise that cut the player cannot sign them or use them as a sub until 2 MDs have passed.
+
+    - **5.6.1.3**&emsp;If the cut occurs during the regular season, the player will go on waivers in their original tier. The franchise that cut the player cannot claim them off of waivers.
 
 - **5.6.2**&emsp;If a player is promoted post-draft, they will remain on the team they were promoted to unless they are cut or demoted. If they are cut they will go onto waivers in their original tier.
 
