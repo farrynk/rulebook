@@ -28,6 +28,8 @@
 
     - **4.2.2.1**&emsp;GMs can nominate up to 1 assistant GM (up to 2 if they have teams in at least 4 tiers), who can assume the responsibilities of that GM in their absence.
 
+        - **4.2.2.1.1**&emsp;A GM may transition a non-playing AGM to contracted status on their franchise during or before pre-draft transactions as long as that AGM either completed their most recent contract in good standing or ended their last season as a regular FA.
+
     - **4.2.2.2**&emsp;The information shared with assistant GMs (channels, discussions, etc), should be kept confidential as outlined in [Section 3.3](3_csc-conduct-guidelines.md#33-privileged-knowledge).
 
 - **4.2.3**&emsp;GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent, but they will be eligible to return to their own roster during the season.
