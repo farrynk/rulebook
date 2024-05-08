@@ -36,6 +36,8 @@
 
     - **7.1.8.6**&emsp;Each team is limited to a maximum of 4 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
 
+    - **7.1.8.7**&emsp;Keeper picks can only be in the first five rounds of the draft.
+
 - **7.1.9**&emsp;If a GM does not have enough picks available in that tier’s draft, they must give up current players to free agency to accommodate.
 
 - **7.1.10**&emsp;There may be Admin overrulings to trades made during the season for trades out of the ordinary, at the Admins’ discretion.
