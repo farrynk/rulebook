@@ -91,7 +91,7 @@
 
     - **2.6.2.1**&emsp;An admin candidate must meet certain criteria in order to be an eligible candidate.
 
-        - **2.6.2.1.1**&emsp; You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former admin (which includes admins at the end of their term) who is not running and also satisfies 2.6.2.1.2-4. In order to be officially backed by the pool, you must gain a vote of at least 20% of the pool (rounded up).
+        - **2.6.2.1.1**&emsp; You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former/outgoing admin (for two backer cycles from the end of their most recent term) who is not running and also satisfies 2.6.2.1.2-4. In order to be officially backed by the pool, you must gain a vote of at least 40% of the pool (rounded up).
 
             - **2.6.2.1.1.1**&emsp;Each backer simply decides whether or not they think each applicant should be a candidate. They need to do this for all candidates and should provide explanation to the pool as appropriate.
 
