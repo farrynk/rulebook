@@ -108,7 +108,7 @@
 
     - **5.4.6.4**&emsp;No games will be delayed to benefit players who are substituting with another team, with admin discretion.
 
-    - **5.4.6.5**&emsp;A player may not switch teams during concurrently-running matches.
+    - **5.4.6.5**&emsp;Players cannot leave an in-progress map in an official match to play in another match. Additionally, in the event of a scheduling conflict between the two games, the transaction for a player subbing up will not be processed until they have a replacement in their usual tier, one match has been successfully played, or the other team has forfeited. A scheduling conflict occurs if the start times are separated by less time than 75 minutes per possible map of the first series.
 
 &emsp;
 
