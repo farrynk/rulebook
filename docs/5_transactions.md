@@ -8,7 +8,7 @@
 
     - **5.1.1.1**&emsp;Bypassing transaction deadline to cut and sign another player is allowed under extreme circumstances based on approval by TM head/Admins. You may only sign a player under this rule if that FA was an FA not on waivers at the time of deadline. The cut player may not play the rest of the season. This is to be used if a player has an extended unavailability or extended lack of communication. Evidence of this must be given to the TM head/Admins.
 
-- **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the penultimate match day of the regular season.
+- **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the second to last match day of the regular season.
 
 - **5.1.3**&emsp;Any transaction requests posted 15 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
