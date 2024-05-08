@@ -97,6 +97,8 @@
 
             - **2.6.2.1.1.2**&emsp;Once the backing process is concluded, approved candidates will continue the process into admin election discussions without any information on the backing process given out to the public except for the fact they were approved by the backer pool.
 
+            - **2.6.2.1.1.3**&emsp;The backer pool will write a short rationale to send to any rejected applicants. Members of the backer pool may also discuss their own judgement with any rejected applicants, but may not discuss any specific sensitive info/incidents or the opinions/experiences of other pool members.
+
         - **2.6.2.1.2**&emsp;You must have participated in at least one season of CSC
 
         - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
