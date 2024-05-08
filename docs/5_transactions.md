@@ -84,7 +84,7 @@
 
     - **5.4.1.1**&emsp;A team in a higher tier may not get a substitute from a lower tier until after 8pm EST on a match day. Example: An Elite team can not get a Challenger player as a substitute until after 8pm.
 
-- **5.4.2**&emsp;A player may sub up to another team within the same franchise on the same match night, even if they play with a different team in their franchise at a different point in that match night.
+- **5.4.2**&emsp;A player may sub up to another team within the same franchise up to twice a season. Even if on the same match night and even if they play with a different team in their franchise at a different point in that match night.
 
 - **5.4.3**&emsp;Players may not sub down to a team in a lower tier for any reason.
 
