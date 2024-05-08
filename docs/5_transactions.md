@@ -26,13 +26,17 @@
 
     - **5.2.1.1**&emsp;If a player is promoted they will go onto waivers in their original tier.
 
-- **5.2.2**&emsp;Waiver order will be determined by the team’s record, inverse to the tier in which the transaction takes place. Waivers will be updated after every 2nd match day.
+- **5.2.2**&emsp;Waiver order will be determined by the following:
 
-    - **5.2.2.1**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until the next waiver update.
+    - **5.2.2.1**&emsp;At the start of the season order will be based on the inverse of the draft, per tier. If a team had the last pick in the draft, they will receive the first spot on waivers.
 
-- **5.2.3**&emsp;Waivers will end every Monday 11:59pm EST and Wednesday 11:59pm EST. A player that is cut or made active from their inactive tag will be available on the closest date.
+    - **5.2.2.2**&emsp;After two regular season match days, order will be based on the inverse of tier standings, as updated from the most recent match day prior to the waiver starting.
 
-- **5.2.4**&emsp;Waivers at the start of the season will be based on the inverse of the draft, per tier. If a team had the last pick in the draft, they will receive the first spot on waivers.
+    - **5.2.2.3**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until two match days have past (DHs count as two MDs for the purposes of this rule).
+
+- **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver.
+
+- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player in the same season.
 
 - **5.2.5**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
