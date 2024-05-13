@@ -91,17 +91,38 @@
 
     - **2.6.2.1**&emsp;An admin candidate must meet certain criteria in order to be an eligible candidate.
 
-        - **2.6.2.1.1**&emsp; You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former admin (which includes admins at the end of their term) who is not running and also satisfies 2.6.2.1.2-4. In order to be officially backed by the pool, you must gain a vote of at least 20% of the pool (rounded up).
+        - **2.6.2.1.1**&emsp; You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former/outgoing admin (for two backer cycles from the end of their most recent term) who is not running and also satisfies 2.6.2.1.2-4. In order to be officially backed by the pool, you must gain a vote of at least 40% of the pool (rounded up).
 
             - **2.6.2.1.1.1**&emsp;Each backer simply decides whether or not they think each applicant should be a candidate. They need to do this for all candidates and should provide explanation to the pool as appropriate.
 
             - **2.6.2.1.1.2**&emsp;Once the backing process is concluded, approved candidates will continue the process into admin election discussions without any information on the backing process given out to the public except for the fact they were approved by the backer pool.
+
+            - **2.6.2.1.1.3**&emsp;The backer pool will write a short rationale to send to any rejected applicants. Members of the backer pool may also discuss their own judgement with any rejected applicants, but may not discuss any specific sensitive info/incidents or the opinions/experiences of other pool members.
 
         - **2.6.2.1.2**&emsp;You must have participated in at least one season of CSC
 
         - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
 
         - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
+
+    - **2.6.2.2**&emsp;If there is suspected abuse, severe inactivity to the detriment of the league, or misuse of power or authority by an admin, then an investigation for possible removal shall be made.
+
+        - **2.6.2.2.1**&emsp;The members of the group who will take part in that investigation are:
+    
+            - The Server Owner
+            - Admins not under investigation
+            - The head of the Moderation Committee
+            - The head of Arbiters
+            - The GM representative (who also serves as GM RC rep)
+            - The Committee Head Representative, for committees not already included
+
+        - **2.6.2.2.2**&emsp;An investigation will only be started when the Server Owner, any admin, or at least 3 Committee Heads or GMs request the investigation begins.
+
+        - **2.6.2.2.3**&emsp;After this point the uninvestigated Admins will work with the Server Owner and any involved parties to collect any relevant evidence to present to the pool.
+
+        - **2.6.2.2.4**&emsp;After the evidence is gathered the pool will discuss and all non-recused members of the pool shall vote on admin removal. Each of the six bodies listed above votes as one. (If the admin body is tied it will be a vote against removal). A 2/3 majority vote is needed for removal.
+
+            - **2.6.2.2.4.1**&emsp;Any members that are close friends to the admin in question will recuse themselves. Upon recusal of a member who was not an admin or the server owner, the recused will be replaced by the next most senior member in that group.
 
 - **2.6.3**&emsp;The league’s day-to-day activities are directed by Admins.
 

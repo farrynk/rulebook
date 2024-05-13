@@ -8,13 +8,13 @@
 
 - **6.1.2**&emsp;League matches will be played on the most up-to-date patch for all game settings including any and all weapon buffs and nerfs, even if the patch takes place mid-season. This does not include an updated map pool.
 
-- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 10 these maps are:
+- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 14 these maps are:
 
     - Anubis
 
     - Mirage
 
-    - Overpass
+    - Dust II
 
     - Nuke
 
@@ -123,7 +123,7 @@
 
 - **6.5.3**&emsp;For the purposes of tiebreakers, an OT result will include 12-12 plus the last overtime scoreline. (EX: A 22-18 score will count as a 16-12 score for tiebreakers)
 
-- **6.5.4**&emsp;Forfeits will result in a 13-0 scoreline.
+- **6.5.4**&emsp;Mandated forfeits from disciplinary actions that involved a player being banned will result in a 0-1 scoreline. All other forfeits, including from failing to field a team, will result in a 0-13 scoreline.
 
 &emsp;
 

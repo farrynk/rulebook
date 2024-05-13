@@ -12,7 +12,7 @@
 
     - **3.1.2.2**&emsp;Players are encouraged to take screenshots containing any insults or examples of poor sportsmanship and forward them to their GM and a member of the Moderator Committee.
 
-- **3.1.3**&emsp;If at any point an individual or team feels that a rule unfairly applies to them, or has been unfairly applied to them, that individual or team should file an appeal through DMing the ModMail bot or the admins to be ruled upon.
+- **3.1.3**&emsp;If at any point a player feels that they have been unfairly punished for violating behavior guidelines, they should file an appeal with the arbiters by opening a ticket using the ⁠⁠appeal-ticket-creation channel. In the event that this is not possible, they may DM an admin, head mod, or head arbiter.
 
 - **3.1.4**&emsp;Any Admin or Mod in CSC may require a player to change their name or profile picture if it is deemed to be inappropriate.
 

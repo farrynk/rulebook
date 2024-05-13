@@ -8,7 +8,7 @@
 
     - **5.1.1.1**&emsp;Bypassing transaction deadline to cut and sign another player is allowed under extreme circumstances based on approval by TM head/Admins. You may only sign a player under this rule if that FA was an FA not on waivers at the time of deadline. The cut player may not play the rest of the season. This is to be used if a player has an extended unavailability or extended lack of communication. Evidence of this must be given to the TM head/Admins.
 
-- **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the penultimate match day of the regular season.
+- **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the second to last match day of the regular season.
 
 - **5.1.3**&emsp;Any transaction requests posted 15 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
@@ -26,13 +26,17 @@
 
     - **5.2.1.1**&emsp;If a player is promoted they will go onto waivers in their original tier.
 
-- **5.2.2**&emsp;Waiver order will be determined by the team’s record, inverse to the tier in which the transaction takes place. Waivers will be updated after every 2nd match day.
+- **5.2.2**&emsp;Waiver order will be determined by the following:
 
-    - **5.2.2.1**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until the next waiver update.
+    - **5.2.2.1**&emsp;At the start of the season order will be based on the inverse of the draft, per tier. If a team had the last pick in the draft, they will receive the first spot on waivers.
 
-- **5.2.3**&emsp;Waivers will end every Monday 11:59pm EST and Wednesday 11:59pm EST. A player that is cut or made active from their inactive tag will be available on the closest date.
+    - **5.2.2.2**&emsp;After two regular season match days, order will be based on the inverse of tier standings, as updated from the most recent match day prior to the waiver starting.
 
-- **5.2.4**&emsp;Waivers at the start of the season will be based on the inverse of the draft, per tier. If a team had the last pick in the draft, they will receive the first spot on waivers.
+    - **5.2.2.3**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until two match days have past (DHs count as two MDs for the purposes of this rule).
+
+- **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver.
+
+- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player in the same season.
 
 - **5.2.5**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
@@ -84,7 +88,7 @@
 
     - **5.4.1.1**&emsp;A team in a higher tier may not get a substitute from a lower tier until after 8pm EST on a match day. Example: An Elite team can not get a Challenger player as a substitute until after 8pm.
 
-- **5.4.2**&emsp;A player may sub up to another team within the same franchise on the same match night, even if they play with a different team in their franchise at a different point in that match night.
+- **5.4.2**&emsp;A player may sub up to another team within the same franchise up to twice a season. Even if on the same match night and even if they play with a different team in their franchise at a different point in that match night.
 
 - **5.4.3**&emsp;Players may not sub down to a team in a lower tier for any reason.
 
@@ -104,7 +108,7 @@
 
     - **5.4.6.4**&emsp;No games will be delayed to benefit players who are substituting with another team, with admin discretion.
 
-    - **5.4.6.5**&emsp;A player may not switch teams during concurrently-running matches.
+    - **5.4.6.5**&emsp;Players cannot leave an in-progress map in an official match to play in another match. Additionally, in the event of a scheduling conflict between the two games, the transaction for a player subbing up will not be processed until they have a replacement in their usual tier, one match has been successfully played, or the other team has forfeited. A scheduling conflict occurs if the start times are separated by less time than 75 minutes per possible map of the first series.
 
 &emsp;
 
