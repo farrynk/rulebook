@@ -16,6 +16,10 @@
 
 - **3.1.4**&emsp;Any Admin or Mod in CSC may require a player to change their name or profile picture if it is deemed to be inappropriate.
 
+- **3.1.5**&emsp;Conspiring or attempting to manipulate league functions that may cause an unjust disadvantage, unjust advantage, or negative impact to player desires to win a match, such as through betting on the results of matches, are expressly forbidden within CSC.
+
+- **3.1.6**&emsp;No league member may offer or accept non-league assets/benefits (cash, skins, etc.) in exchange for in-league assets (ie picks, players, franchises, elevated positions) or for any form of preferential treatment.
+
 &emsp;
 
 ## 3.2 GM Behavior
