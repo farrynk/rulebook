@@ -114,7 +114,7 @@
     - Other team MUST also put .stop in chat unless they are aware of inter-team damage prior to the request in which case they should notify the other team in game chat
     - If only one team .stops and the requesting team has taken or dealt no damage, then take a .tech and play out the remainder of the round and report the incident in match support so that a manual restore can be conducted. If this process is followed correctly and the round restarted, then it will not consume any tech pause resources of either team. If the situation remains disputed, the round shall still be repeated with an investigation taking place after the match.
     - If support is unresponsive after 10 minutes or support is unable to address appropriately the match shall be played out unless teams consensually agree to continue waiting or reschedule.
-    -Abuse of this process is subject to admin oversight
+    - Abuse of this process is subject to admin oversight
 
 - **6.4.3**&emsp;If the game was completed the round of the disconnect the stats, as recorded at the end of the game, stand.
 
