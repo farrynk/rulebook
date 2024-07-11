@@ -10,6 +10,8 @@
 
 - **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the second to last match day of the regular season.
 
+    - **5.1.2.1**&emsp;Taking people off of IR may continue until the day before playoffs begin in that tier (at 11:59pm ET).
+
 - **5.1.3**&emsp;Any transaction requests posted 15 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
 - **5.1.4**&emsp;Transaction requests posted after 15 minutes before match start time will be handled as follows:
