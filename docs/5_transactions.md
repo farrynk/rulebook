@@ -218,8 +218,6 @@
 
     - **5.8.3.1**&emsp;Former players who sign up in the offseason will be placed into the draft if they were still under contract when they left the league in a previous season.
 
-- **5.8.4**&emsp;If at some point during the season the Admins feel that there is a lack of regular free agents for a specific tier, they can promote permanent free agents to regular free agent status to return free agent numbers to an ideal amount.
-
-    - **5.8.4.1**&emsp;The permanent free agent(s) to be promoted will be determined based on the date and time in which the permanent free agent(s) signed up for the league, with those that signed up earliest being selected first.
+- **5.8.4**&emsp;Admins and Numbers shall convert PFAs to FA based on a variety of factors to maintain health of the FA pool.
 
 ---
