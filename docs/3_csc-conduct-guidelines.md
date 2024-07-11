@@ -71,4 +71,41 @@
 
     - **3.4.3.3**&emsp;Upon completion of the demo review, a unanimous minus one vote is required to remove the player from the league
 
+&emsp;
+
+## 3.5 Staff Bans
+
+- **3.5.1**&emsp;Admins may give out staff bans at their discretion with a vote of all but one admin in favor to enact the ban.
+
+    - **3.5.1.1**&emsp;They may be given out for a variety of reasons including coinciding with certain serious strikes, severe character shortcomings, and intense demonstrated public unprofessionalism.
+
+- **3.5.2**&emsp;Staff bans will last 1-3 seasons (the current season not counting towards this) as appropriate.
+
+    - **3.5.2.1**&emsp;Each prior staff ban (not successfully appealed) will increase this length by a season.
+
+    - **3.5.2.2**&emsp;A member that has served a staff ban (that has not been successfully appealed or forgiven) is permanently ineligible from positions with elevated authority or access to privileged information, listed below
+        
+        - Admin
+        - Mod
+        - Arbiter
+        - Transaction Manager
+        - (A)GM
+        - Numbers Committee
+        - Rules Committee
+        - Committee Head
+
+- **3.5.3**&emsp;Staff bans may be appealed immediately. After an unsuccessful appeal, members must wait 6 months following the conclusion of the appeal to initiate another one.
+
+    - **3.5.3.1**&emsp;This appeal process requires a vote of all but one arbiter to remove the staff ban.
+
+    - **3.5.3.2**&emsp;This process should be followed if new evidence is discovered regarding the incident(s) or there were new claims of issues with the initial ban process including misconduct, bias, or abuse. This process is separate from strike removal by appeal, but may happen in parallel.
+
+    - **3.5.3.3**&emsp;If successful, the staff ban is removed.
+
+- **3.5.4**&emsp;Staff bans may be forgiven (not removed) after ban expiration with 6 months between failed attempts.
+
+    - **3.5.4.1**&emsp;The review group will be comprised of all admins, moderators, and arbiters. For the group to consider the request 2 members of this group must endorse a review after being initiated by the offending member. A 2/3 majority of the group will be required to forgive the ban.
+
+    - **3.5.4.2**&emsp;If successful, the member may again seek any CSC position.
+
 ---
