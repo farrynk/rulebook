@@ -156,6 +156,14 @@
 
     - **2.6.8.2**&emsp;AGMs may be staff, but no AGM may hold the Transaction Manager role, due to potential conflict of interests
 
+- **2.6.9**&emsp;Committee Handbooks
+
+    - **2.6.9.1**&emsp;Each committee will make a public document outlining committee structure and procedures, not including information deemed sensitive/proprietary, which will only be referenced by name (i.e. "numbers formula").
+
+    - **2.6.9.2**&emsp;Rules within the rulebook when applicable supersede policies made by committee handbooks or decisions made at the committee level.
+
+    - **2.6.9.3**&emsp;In the event a committee requires an emergency policy change that conflicts with the rulebook, a committee may supersede the policy with majority approval by admins.
+
 &emsp;
 
 ## 2.7 Transactions (see Section 5 for relevant rules)
