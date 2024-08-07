@@ -107,10 +107,12 @@
 - **9.1.4**&emsp;Playoff seeding is determined using the following criteria in order. In the event that 3 or more teams are tied and a tiebreaker results in only a partial break of the tie, tiebreaking for the remaining tied teams will be restarted from the first criterion.
 
     - Regular Season Match Win Percentage
-    - Head to Head Match Win Percentage (used only if all tied teams played the same number of games against each other)
+    - Head to Head Match Win Percentage; used if:
+        - every tied team has played every other tied team the same number of times; or
+        - the group of tied teams can all be split into two subgroups such that every team in the first subgroup has beaten all teams in the second subgroup.
     - In-Conference Match Win Percentage (used only if all tied teams are from the same conference)
-    - Strength of Schedule (average winrate of each opponent weighted by the number of times the team faced that opponent, rounded to the nearest percent)
     - Overall Round Win Percentage (rounded to the nearest percent)
+    - Strength of Schedule (average of opponents' match win percentage, weighted by the number of times the team faced each opponent, rounded to the nearest percent)
     - (A)GM 1v1 (optional)
     - Coin flip
 
