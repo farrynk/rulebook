@@ -156,6 +156,21 @@
 
     - **2.6.8.2**&emsp;AGMs may be staff, but no AGM may hold the Transaction Manager role, due to potential conflict of interests
 
+- **2.6.9**&emsp;Election ranking and replacement
+
+    - **2.6.9.1**&emsp;Elections in CSC unless otherwise stated shall use Ranked Choice Vote to rank candidates.
+
+    - **2.6.9.2**&emsp;A committee may have a vote of no confidence towards their committee head, which is a petition with 10% of the committee to hold a re-election for the role.
+
+    - **2.6.9.3**&emsp;In the event of a staff member removal, voluntary or otherwise, the following procedures will be used depending on the position.
+        - If an admin spot is vacant: During the first half of the season the previous election will be used to select a new candidate. In the second half of the season no replacement shall occur for a single admin.
+        - If there are less than 4 active admins: a full admin election for replacing the inactive or empty spots shall be ran.
+        - If a Committee Head position is vacant: admins shall run an immediate election for replacement, unless the committee makeup is deemed a significant issue preventing an election, in which case the replacement shall be chosen by admins for the remainder of the term.
+        - If an arbiter spot is vacant, the last election will be used to select a replacement for the remainder of the season.
+        - If a player rules rep is vacant: the vacant position shall be replaced in the next election.
+        - If a gm rules rep is vacant: admins shall hold an election for a replacement representative for the remainder of the season.
+        - If a committee rules rep is vacant: The committee head for that committee shall take over until they designate a new representative if they choose to do so.
+
 &emsp;
 
 ## 2.7 Transactions (see Section 5 for relevant rules)
