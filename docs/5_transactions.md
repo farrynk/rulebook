@@ -10,6 +10,8 @@
 
 - **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the second to last match day of the regular season.
 
+    - **5.1.2.1**&emsp;Taking people off of IR may continue until the day before playoffs begin in that tier (at 11:59pm ET).
+
 - **5.1.3**&emsp;Any transaction requests posted 15 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
 - **5.1.4**&emsp;Transaction requests posted after 15 minutes before match start time will be handled as follows:
@@ -216,8 +218,6 @@
 
     - **5.8.3.1**&emsp;Former players who sign up in the offseason will be placed into the draft if they were still under contract when they left the league in a previous season.
 
-- **5.8.4**&emsp;If at some point during the season the Admins feel that there is a lack of regular free agents for a specific tier, they can promote permanent free agents to regular free agent status to return free agent numbers to an ideal amount.
-
-    - **5.8.4.1**&emsp;The permanent free agent(s) to be promoted will be determined based on the date and time in which the permanent free agent(s) signed up for the league, with those that signed up earliest being selected first.
+- **5.8.4**&emsp;Admins and Numbers shall convert PFAs to FA based on a variety of factors to maintain health of the FA pool.
 
 ---
