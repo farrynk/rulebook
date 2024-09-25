@@ -128,33 +128,29 @@
 
 - **2.6.4**&emsp;The structures of the league are operated by Staff. There are several different roles that fall under the heading of Staff.
 
-- **2.6.5**&emsp;A member that has served a staff ban is permanently ineligible from positions with elevated authority or access to privileged information, listed below for convenience.
+- **2.6.5**&emsp;The teams of the league are led by General Managers (GMs). Each GM is in charge of a grouping of teams known as a franchise. Some GMs have additional roles. GMs can be players; however, special rules apply to these circumstances.
 
-    - **2.6.5.1**&emsp;These restricted positions include:
+    - **2.6.5.1**&emsp;A GM or AGM may have any Staff job other than Transaction Manager, Admin.
 
-        - Admin
-        - Mod
-        - Arbiter
-        - Transaction Manager
-        - (A)GM
-        - Numbers Committee
-        - Committee Head Positions
+        - **2.6.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side.
 
-- **2.6.6**&emsp;The teams of the league are led by General Managers (GMs). Each GM is in charge of a grouping of teams known as a franchise. Some GMs have additional roles. GMs can be players; however, special rules apply to these circumstances.
+    - **2.6.5.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming Staff. The restrictions on which jobs may be taken still apply in addition to the restrictions in this rule.
 
-    - **2.6.6.1**&emsp;A GM or AGM may have any Staff job other than Transaction Manager, Admin.
+- **2.6.6**&emsp;Captains are players who have been tasked by their GM to lead a team. There are no specific responsibilities or privileges associated with being a Captain, other than what their specific GM grants them. Captains are not permitted to see privileged information.
 
-        - **2.6.6.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side.
+- **2.6.7**&emsp;Assistant GMs (AGMs) are players who are tasked with assisting their GM in various tasks. There is no requirement as to what tier they must be in.
 
-    - **2.6.6.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming Staff. The restrictions on which jobs may be taken still apply in addition to the restrictions in this rule.
+    - **2.6.7.1**&emsp;AGMs can remain with a franchise if they are not playing the following season(s). Conditions: The AGM must have been involved in at least 1 season with CSC and the AGM cannot be on another franchise or a free agent.
 
-- **2.6.7**&emsp;Captains are players who have been tasked by their GM to lead a team. There are no specific responsibilities or privileges associated with being a Captain, other than what their specific GM grants them. Captains are not permitted to see privileged information.
+    - **2.6.7.2**&emsp;AGMs may be staff, but no AGM may hold the Transaction Manager role, due to potential conflict of interests
 
-- **2.6.8**&emsp;Assistant GMs (AGMs) are players who are tasked with assisting their GM in various tasks. There is no requirement as to what tier they must be in.
+- **2.6.8**&emsp;Committee Handbooks
 
-    - **2.6.8.1**&emsp;AGMs can remain with a franchise if they are not playing the following season(s). Conditions: The AGM must have been involved in at least 1 season with CSC and the AGM cannot be on another franchise or a free agent.
+    - **2.6.8.1**&emsp;Each committee will make a public document outlining committee structure and procedures, not including information deemed sensitive/proprietary, which will only be referenced by name (i.e. "numbers formula").
 
-    - **2.6.8.2**&emsp;AGMs may be staff, but no AGM may hold the Transaction Manager role, due to potential conflict of interests
+    - **2.6.8.2**&emsp;Rules within the rulebook when applicable supersede policies made by committee handbooks or decisions made at the committee level.
+
+    - **2.6.8.3**&emsp;In the event a committee requires an emergency policy change that conflicts with the rulebook, a committee may supersede the policy with majority approval by admins.
 
 - **2.6.9**&emsp;Election ranking and replacement
 

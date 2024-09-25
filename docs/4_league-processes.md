@@ -64,9 +64,11 @@
 
 - **4.3.6**&emsp;Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM’s approval.
 
-    - **4.3.6.1**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below based on their circumstances.
+    - **4.3.6.1**&emsp;If a signed player is willing and able to play in matches but is prevented from doing so by the franchise for a period of 2 match days, then they may enter into FA status via a ticket (subject to waivers when applicable) if the GM does not pursue a transaction in a timely manner.
 
-        - **4.3.6.1.1**&emsp;This is their first incident in the current season and...
+    - **4.3.6.2**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below based on their circumstances.
+
+        - **4.3.6.2.1**&emsp;This is their first incident in the current season and...
 
             - There is evidence of a toxic environment or other valid reason as judged by admins, then the player will become a PFA for 1 Match Day. If the evidence is actionable upon former teammates this penalty may be waived by admins.
 
@@ -74,7 +76,7 @@
 
             - There is evidence that the player is refusing to play in order to force an exit and only play on one specific team, then the player will be a PFA for the remainder of the season.
 
-        - **4.3.6.1.2**&emsp;This is not their first incident in the current season and...
+        - **4.3.6.2.2**&emsp;This is not their first incident in the current season and...
 
             - There has been no provided evidence in any instance,  then the player will be a PFA for the remainder of the season.
 
