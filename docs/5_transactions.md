@@ -10,7 +10,11 @@
 
 - **5.1.2**&emsp;Transaction deadline is 15 minutes before the default start time of the second to last match day of the regular season.
 
-    - **5.1.2.1**&emsp;Taking people off of IR may continue until the day before playoffs begin in that tier (at 11:59pm ET).
+
+    - **5.1.2.1**&emsp;Waiver claims will be processed normally even if they extend after transactions deadline. Only waivers that began before the deadline will be processed this way.
+
+    - **5.1.2.2**&emsp;Taking people off of IR may continue until the day before playoffs begin in that tier (at 11:59pm ET).
+
 
 - **5.1.3**&emsp;Any transaction requests posted 15 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
@@ -24,9 +28,9 @@
 
 ## 5.2 Waivers
 
-- **5.2.1**&emsp;A player claimed on waivers can only be claimed onto the corresponding tier the player was cut from with two exceptions.
+- **5.2.1**&emsp;A player may be waiver claimed in any tier they are eligible to play in.
 
-    - **5.2.1.1**&emsp;If a player is promoted they will go onto waivers in their original tier.
+    - **5.2.1.1**&emsp;Once cut, a player may provide a preferred tier for waivers to be applied in in the case of multiple tiers providing claims. They will be contacted by TMs to facilitate this. If no preference is communicated by the end of the waiver period and multiple tiers make claims, the lowest tier's claims will apply.
 
 - **5.2.2**&emsp;Waiver order will be determined by the following:
 
@@ -36,7 +40,7 @@
 
     - **5.2.2.3**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until two match days have past (DHs count as two MDs for the purposes of this rule).
 
-- **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver.
+- **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver. This may extend past transactions deadline.
 
 - **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player in the same season.
 
@@ -88,7 +92,7 @@
 
 - **5.4.1**&emsp;Any player may fill in as a sub in a higher tier if they wish.
 
-    - **5.4.1.1**&emsp;A team in a higher tier may not get a substitute from a lower tier until after 8pm EST on a match day. Example: An Elite team can not get a Challenger player as a substitute until after 8pm.
+    - **5.4.1.1**&emsp;A team in a higher tier may not get a substitute from a lower tier until after 8pm ET on a match day. Example: An Elite team can not get a Challenger player as a substitute until after 8pm ET.
 
 - **5.4.2**&emsp;A player may sub up to another team within the same franchise up to twice a season. Even if on the same match night and even if they play with a different team in their franchise at a different point in that match night.
 

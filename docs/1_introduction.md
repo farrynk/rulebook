@@ -31,6 +31,6 @@ Admins, General Managers (GMs), and staff members can also be players. While in 
 
 - **1.2.1**&emsp;Dates will be posted in the discord in #notices soon after the end of the past season.
 
-- **1.2.2**&emsp;Combines begin at 9pm EST. Games are best of 1 and start at 10pm EST, with a scrimmage at 9pm. Playoff matches are best of 3 and start at 9pm EST.
+- **1.2.2**&emsp;Combines begin at 9pm ET. Games are best of 1 and start at 10pm ET, with a scrimmage at 9pm ET. Playoff matches are best of 3 and start at 9pm ET.
 
 ---

@@ -76,9 +76,9 @@
 
 - **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Roster Lock date. In this time, there will be 2 cut days.
 
-    - **8.1.1.1**&emsp;The first cut time is the day after the second pre-season match at 11:59am EST. Teams must be at a maximum of 6 rostered players.
+    - **8.1.1.1**&emsp;The first cut time is the day after the second pre-season match at 11:59am ET. Teams must be at a maximum of 6 rostered players.
 
-    - **8.1.1.2**&emsp;The second cut day is the day after the third pre-season match at 11:59am EST. Teams must be at a maximum of 5 rostered players.
+    - **8.1.1.2**&emsp;The second cut day is the day after the third pre-season match at 11:59am ET. Teams must be at a maximum of 5 rostered players.
 
 - **8.1.2**&emsp;A player who was drafted must play in a preseason match (a scrim doesn't count) before being cut in the preseason. A player who is unresponsive, unwilling, or unavailable at game time is excluded from this requirement. Evidence of this should be shown in a GM’s transaction channel.
 
@@ -90,7 +90,7 @@
 
     - **9.1.1.1**&emsp;If a franchise only has teams in, for example, one tier, they will be separated before the others are randomized to ensure one conference will not have more teams in a different tier.
 
-- **9.1.2**&emsp;Matches will take place on the scheduled date, unless rescheduled. Matches can be played before the scheduled date and time, or any time up to 11:59pm of the next match day except for during that match day's normal match time. However the last regular season match for each tier cannot be rescheduled past the day after the original date. If a match is rescheduled both GMs must post the change in their respective transaction channels, exceptions to this can be made under admin discretion. Reschedules must be clearly communicated to admins, the heads of tech committee, and transactions.
+- **9.1.2**&emsp;Regular season matches can be rescheduled to be played before the scheduled date and time, or up to 11:59pm ET one week from the originally scheduled date. No match may be rescheduled to within 75 minutes of another match's start time per possible map of the earlier match. However no regular season match may be rescheduled past 11:59 ET the day after the final match of regular season in that tier unless authorized by admins. If a match is rescheduled both GMs must post the change in their respective transaction channels prior to the scheduled start date and time, exceptions to this can be made under admin discretion. Reschedules must be clearly communicated to admins, the heads of tech committee, and transactions.
 
     - **9.1.2.1**&emsp;Both GMs or their representatives must agree to any rescheduled matches, and they must both notify League Staff of the new match time by posting in their respective transaction channels.
 
@@ -98,7 +98,7 @@
 
     - **9.1.2.3**&emsp;A match must be rescheduled and announced by GMs in their respective transaction channels at least 10 minutes prior to the start of the currently scheduled match time. There is no limit to the number of times a match can be rescheduled.
 
-    - **9.1.2.4**&emsp;If the match is rescheduled, the new match time will be treated as equivalent to the original match time for the purposes of all rules contained in this document.
+    - **9.1.2.4**&emsp;If the match is rescheduled, the new match time will be treated as equivalent to the original match time for all purposes except additional rescheduling.
 
     - **9.1.2.5**&emsp;Should special circumstances occur, a contingency day can be used to reschedule matches if sanctioned by League Staff.
 
@@ -107,10 +107,12 @@
 - **9.1.4**&emsp;Playoff seeding is determined using the following criteria in order. In the event that 3 or more teams are tied and a tiebreaker results in only a partial break of the tie, tiebreaking for the remaining tied teams will be restarted from the first criterion.
 
     - Regular Season Match Win Percentage
-    - Head to Head Match Win Percentage (used only if all tied teams played the same number of games against each other)
+    - Head to Head Match Win Percentage; used if:
+        - every tied team has played every other tied team the same number of times; or
+        - the group of tied teams can all be split into two subgroups such that every team in the first subgroup has beaten all teams in the second subgroup.
     - In-Conference Match Win Percentage (used only if all tied teams are from the same conference)
-    - Strength of Schedule (average winrate of each opponent weighted by the number of times the team faced that opponent, rounded to the nearest percent)
     - Overall Round Win Percentage (rounded to the nearest percent)
+    - Strength of Schedule (average of opponents' match win percentage, weighted by the number of times the team faced each opponent, rounded to the nearest percent)
     - (A)GM 1v1 (optional)
     - Coin flip
 
@@ -141,6 +143,8 @@
     - **10.1.4.3**&emsp;All games follow normal gameplay and transaction rules for playoffs.
 
 - **10.1.5**&emsp;During playoffs a team may have only one active temp at a time.
+
+- **10.1.6**&emsp;Playoff matches can be rescheduled up to 11:59pm ET one day before the default date for the next round of playoffs.
 
 &emsp;
 
