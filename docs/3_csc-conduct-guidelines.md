@@ -56,6 +56,8 @@
     - **3.4.1.1**&emsp;Use of the following are not to be considered cheating for the purposes of these rules: VibranceGUI, game font changes, game config changes (.cfg files), simple radar, timer resolution, intelligent standby list cleaner.
 
         - **3.4.1.1.1**&emsp;If you have something not on this list and wish to continue using it, please contact an admin for approval.
+     
+    - **3.4.1.2**&emsp;Players should not visit, watch, or participate in any streams or stream chats involving their game where the video and POV may show information not accessible to your team while the match is ongoing.
 
 - **3.4.2**&emsp;Accusations of cheating must be made either through the ticket system in #roles-and-tickets, or through a DM with an admin. Cheating accusations are not to be made in public channels, and may lead to a punishment for the offender.
 
