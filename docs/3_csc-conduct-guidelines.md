@@ -70,6 +70,8 @@
     - **3.4.3.2**&emsp;The committee will individually review one or more demo files of the accused's gameplay as they see fit until a conclusion is reached.
 
     - **3.4.3.3**&emsp;Upon completion of the demo review, a unanimous minus one vote is required to remove the player from the league
+ 
+- **3.4.4**&emsp;The use of any methods intended to bypass Valve's default SOCD behavior (such as Snap Tap) is banned in all league matches. If a player is discovered to have used such methods any matches in which they were used will be considered a forfeit win for the opposing team and the player issued a formal warning. Any subsequent infraction will result in a ban of one match day for each match in which they were used and the match being a forfeit win for the opponent. Recurring usage may result in season or permanent bans at admin discretion.
 
 &emsp;
 
