@@ -108,6 +108,10 @@
 
     - **4.3.13.3**&emsp;A player on IR is not allowed to play any matches until they are taken off IR.
 
+    - **4.3.13.4**&emsp;A player on IR may only be cut, moved to PFA, or brought back to the active roster, they may not be traded, promoted, or demoted.
+
+    - **4.3.13.5**&emsp;When a player on IR requests and is eligible to return to the active roster the GM must remove them from IR before 2 MDs pass or cut them.
+
 &emsp;
 
 ## 4.4 Franchises, Teams, And Rosters
