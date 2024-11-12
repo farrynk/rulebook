@@ -104,6 +104,8 @@
         - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
 
         - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
+     
+        - **2.6.2.1.5**&emsp;Admin candidates that pass the Backer Pool will have their strike counts for each strike category published by the mod committee.
     
     - **2.6.2.2**&emsp;Only CSC members who participated in the previous season as a player or staff member are eligible to vote in the admin election.
 
