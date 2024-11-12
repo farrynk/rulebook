@@ -15,13 +15,15 @@ The following policies are self-administered guidelines that help facilitate the
 
 - **Proposal 7_7  -  RC Behavior Guidelines**&emsp;For the purposes of future elections and governing thresholds for revoking membership, RC members will be treated as staff internally.
 
-- **Proposal 7_10  -  Player Rep Candidate Eligibility**&emsp;For future RC Player Rep elections, any non-admin, non-GM may run for the spot of a normal player representative if they have played in at least one season.
-
 - **Proposal 9_3  -  GM dedicated rep**&emsp;Starting after S9, GMs will have a dedicated representative that GMs alone will vote for. This is an additional member of RC and does not replace another spot. The election will take place no later than when player rep elections happen. This replaces S7_9 which outlines one of the player reps becoming a GM rep if no GMs are in RC.
 
 - **Proposal 9_6  -  Player Rep Term Length**&emsp;Player reps will serve for two season terms. In some cases (in order to distribute the spots up for election) certain player reps (based on placing lower in the voting than the 2 season term spots) will serve one season terms. This breakdown will be dictated before candidates are known based on RC needs.
 
 - **Proposal 9_7  -  Player Rep Amounts**&emsp;There will be up to 4 player reps at a given time based on candidate amounts. In a given election/offseason, the number of candidates divided by two and rounded down will denote the maximum number of spots offered to candidates. This number will be further capped at 4 or the number of vacant player rep spots (including those at the end of their term), whichever is lower.
+
+- **Proposal 15_1  -  Player Rep**&emsp;Players will be represented on RC by the Player Reps
+    - Any non-admin, non-GM, non-Committee Head that has played in at least one season may run for the position.
+    - Any non-admin, non-GM, non-Committee Head that played in the previous CSC season may vote in the election.
 
 #### Voting
 
