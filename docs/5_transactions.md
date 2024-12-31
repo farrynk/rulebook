@@ -42,7 +42,7 @@
 
 - **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver. This may extend past transactions deadline.
 
-- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player in the same season.
+- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player for two MDs.
 
 - **5.2.5**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
