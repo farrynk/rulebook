@@ -72,9 +72,13 @@
 
 - **6.2.6**&emsp;Teams MUST join/start their match server at game time, unless otherwise agreed upon for another time by the respective GMs and they have notified the League Staff in their respective transaction channels.
 
-    - **6.2.6.1**&emsp;A forfeit counter will start at 5 minutes past the scheduled game time or the agreed upon time for any team that is late or has not shown up.
+    - **6.2.6.1**&emsp;Each team in a match has 10 cumulative minutes to complete their bans. And each has 5 minutes to ready up in the server once the first person has connected or 15 minutes past the original game time (whichever is later). If either of these amounts are exceeded (ban time or server joining) the game may be forfeit. The offended team shall report this immediately in match support by pinging the opposing captain, or if absent, the opposing team's players. This must occur before the end of freeze time of the round after the first pistol and with a (free) tech pause. If the forfeit is then contested the game shall be played out until logs can determine forfeit accuracy.
 
-    - **6.2.6.2**&emsp;10 minutes past the scheduled game time, or the agreed upon time, the game will be forfeited. Please post in #match-check-in to have proof that the opposing team has not joined.
+        - **6.2.6.1.1**&emsp;Delays caused by staff conducting league business or technical issues that affect a majority of the players in the game do not count towards this time.
+
+    - **6.2.6.2**&emsp;If a preceding league match or league-wide tech issues interfere with the start of the game for more than 15 minutes, a single team may require the match to be rescheduled (without a given new time) without the consent of the other team. Both teams are expected to work in good faith to establish a new time to play. If rescheduled in this way, they may play a regular season game more than a week past the original date. Other rescheduling rules shall still be followed including limitations near the postseason.
+
+        - **6.2.6.2.1**&emsp;If a match is rescheduled in this way with only one team giving consent and it is not played before playoffs, it will result in a 0-13 FF for each team. If there is evidence that one team did not work in good faith to play the new match, admins may override this policy.
 
 - **6.2.7**&emsp;For Playoff matches, games beyond the first game have a break period of up to 10 minutes. If one team is not ready at that point, the team that is ready may ping the opposing captain and GM in #match-check-in. Once that ping is made, the unready team has 5 minutes to become ready. If they are still not ready, that game is forfeited by the unready team. A substitution or remake of the game will reset all of these timers.
 

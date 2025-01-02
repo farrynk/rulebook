@@ -26,7 +26,7 @@
 
 - **4.2.2**&emsp;GMs are the ultimate authority for their team. This means a GM can delegate responsibilities to other members of their team. However, the GM will be the main point of contact to Admins, League Staff, and other teams’ GMs for all league activities, such as managing their rosters (trades/cuts/acquisitions, deciding who will play in the next match, etc).
 
-    - **4.2.2.1**&emsp;GMs can nominate up to 1 assistant GM (up to 2 if they have teams in at least 4 tiers), who can assume the responsibilities of that GM in their absence.
+    - **4.2.2.1**&emsp;GMs can nominate up to 2 Assistant GMs (AGMs) who can assist the GM in managing the franchise.
 
         - **4.2.2.1.1**&emsp;A GM may transition a non-playing AGM to contracted status on their franchise during or before pre-draft transactions as long as that AGM either completed their most recent contract in good standing or ended their last season as a regular FA.
 
@@ -107,6 +107,10 @@
     - **4.3.13.2**&emsp;The MMR of the 6th player replaces the MMR of the player on IR. MMR cap rules still apply.
 
     - **4.3.13.3**&emsp;A player on IR is not allowed to play any matches until they are taken off IR.
+
+    - **4.3.13.4**&emsp;A player on IR may only be cut, moved to PFA, or brought back to the active roster, they may not be traded, promoted, or demoted.
+
+    - **4.3.13.5**&emsp;When a player on IR requests and is eligible to return to the active roster the GM must remove them from IR before 2 MDs pass or cut them.
 
 &emsp;
 
