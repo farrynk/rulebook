@@ -142,7 +142,7 @@
 
     - **10.1.4.3**&emsp;All games follow normal gameplay and transaction rules for playoffs.
 
-- **10.1.5**&emsp;During playoffs a team may have only one active temp at a time.
+- **10.1.5**&emsp;During playoffs a team may have up to two combined temp signs and/or subs at a time. Only one of which can be a PFA.
 
 - **10.1.6**&emsp;Playoff matches can be rescheduled up to 11:59pm ET one day before the default date for the next round of playoffs.
 

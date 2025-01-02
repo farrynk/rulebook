@@ -20,6 +20,8 @@
 
 - **3.1.6**&emsp;No league member may offer or accept non-league assets/benefits (cash, skins, etc.) in exchange for in-league assets (ie picks, players, franchises, elevated positions) or for any form of preferential treatment.
 
+- **3.1.7**&emsp;Poaching, or conspiring to persuade a contracted player to leave their franchise and without permission from that player's GM, is prohibited. Anyone found engaging in such behavior will face consequences at admin discretion and informed by their role within the league. Disciplinary action will only be taken with direct evidence of contact or intent to poach.
+
 &emsp;
 
 ## 3.2 GM Behavior
@@ -31,7 +33,6 @@
 - **3.2.3**&emsp;Admins reserve the right to remove a GM at any point, without warning, if they feel that a GM is not meeting the above expectations.
 
 - **3.2.4**&emsp;The position of General Manager is considered a privilege, not a right, for all members of CSC who achieve the position. All GMs are reviewed following incidents of concern and after every season, if needed.
-- **3.2.5**&emsp;A GM that contacts a contracted player from a different franchise with the intention of getting that player to join their franchise and without the player's GM's permission will be subject to punishment at admin discretion. Direct evidence of this contact/intention is required.
 
 &emsp;
 

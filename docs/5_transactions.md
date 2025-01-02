@@ -38,11 +38,11 @@
 
     - **5.2.2.2**&emsp;After two regular season match days, order will be based on the inverse of tier standings, as updated from the most recent match day prior to the waiver starting.
 
-    - **5.2.2.3**&emsp;When a team makes a waiver claim, they will move to last in the waiver order for their tier until two match days have past (DHs count as two MDs for the purposes of this rule).
+    - **5.2.2.3**&emsp;When a team signs a player, they will move to last in the waiver order for their tier until two match days have past (DHs count as two MDs for the purposes of this rule).
 
 - **5.2.3**&emsp;Waiver length, the duration during which claims can be made, will last until two noons (ET) have passed since the beginning of the waiver. This may extend past transactions deadline.
 
-- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player in the same season.
+- **5.2.4**&emsp;A franchise that signs a player through waivers cannot promote that player for two MDs.
 
 - **5.2.5**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
