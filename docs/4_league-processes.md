@@ -56,7 +56,7 @@
 
     - **4.3.4.3**&emsp;Re-signed players must stay on a roster through the draft. They cannot be cut anytime prior to the draft. They can be cut after the draft in the preseason and would then be placed on waivers. The waivers will follow the standard waiver rules. Waivers will be the inverse of draft order. Re-signed players cannot be traded until two match days have passed.
 
-- **4.3.5**&emsp;If a signed player is willing and able to play in matches but is prevented from doing so by the franchise for a period of 2 match days, then they may enter into FA status via a ticket (subject to waivers when applicable) if the GM does not pursue a transaction in a timely manner.
+- **4.3.5**&emsp;If a signed player is willing and able to play in matches but is prevented from doing so by their franchise for a period of 2 match days, they may submit a ticket to be converted to an FA (subject to waivers when applicable).
 
 - **4.3.6**&emsp;Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM's approval.
 
@@ -110,7 +110,7 @@
 
 - **4.4.1**&emsp;A team may not have more than five (5) players except during the period between the draft and the roster lock following the draft.
 
-- **4.4.2**&emsp;A team may not have less than five (5) rostered players.
+- **4.4.2**&emsp;A team may not have less than five (5) rostered players except during the period between the draft and the roster lock following the draft.
 
 - **4.4.3**&emsp;A franchise may not have more than one admin on it (playing or non-playing).
 
