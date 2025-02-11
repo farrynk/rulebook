@@ -20,17 +20,17 @@
 
 - **4.2.3**&emsp;GMs can nominate up to 2 Assistant GMs (AGMs) who can assist the GM in managing the franchise.
 
-        - **4.2.3.1**&emsp;A GM is allowed to switch an AGM twice per season. These switches are counted from the release of the rolling tier list to GMs until the end of the season.
+    - **4.2.3.1**&emsp;A GM is allowed to switch an AGM twice per season. These switches are counted from the release of the rolling tier list to GMs until the end of the season.
 
-            - **4.2.3.1.1**&emsp;If a GM takes over midseason, they are allowed to switch all of their allotted AGMs one time, without using their allotted switches.
+         - **4.2.3.1.1**&emsp;If a GM takes over midseason, they are allowed to switch all of their allotted AGMs one time, without using their allotted switches.
 
-            - **4.2.3.1.2**&emsp;If a GM has less than their allotted AGMs, appointing an AGM to reach the number allowed does not count as one of their switches.
+        - **4.2.3.1.2**&emsp;If a GM has less than their allotted AGMs, appointing an AGM to reach the number allowed does not count as one of their switches.
 
-            - **4.2.3.1.3**&emsp;An AGM stepping down due to leaving the league or leaving a franchise will lead to a new AGM being appointed, not an AGM switch.
+        - **4.2.3.1.3**&emsp;An AGM stepping down due to leaving the league or leaving a franchise will lead to a new AGM being appointed, not an AGM switch.
         
-        - **4.2.3.2**&emsp;The information shared with AGMs (channels, discussions, etc), should be kept confidential as outlined in [Section 3.3](3_csc-conduct-guidelines.md#33-privileged-knowledge).
+     - **4.2.3.2**&emsp;The information shared with AGMs (channels, discussions, etc), should be kept confidential as outlined in [Section 3.3](3_csc-conduct-guidelines.md#33-privileged-knowledge).
 
-        - **4.2.3.3**&emsp;A GM may transition a non-playing AGM to contracted status on their franchise during or before pre-draft transactions as long as that AGM either completed their most recent contract in good standing or ended their last season as a regular FA.
+    - **4.2.3.3**&emsp;A GM may transition a non-playing AGM to contracted status on their franchise during or before pre-draft transactions as long as that AGM either completed their most recent contract in good standing or ended their last season as a regular FA.
 
 - **4.2.4**&emsp;GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent, but they will be eligible to return to their own roster during the season. A GM who wishes to return to their roster after being cut must treat this transaction the same as if they were picking up a Free Agent. Refer to [rule 5.5.5](5_transactions.md#55-cuts).
 
@@ -54,7 +54,7 @@
 
     - **4.3.4.2**&emsp;Players may voluntarily opt out of this protection (including being placed on IR). This must be initiated by the player, otherwise A(GM)s may incur punishment from admins.
 
-    - **4.3.4.3**&emsp;Re-signed players must stay on a roster through the draft. They cannot be cut anytime prior to the draft. They can be cut after the draft in the preseason and would then be placed on waivers. The waivers will follow the standard waiver rules. Waivers will be the inverse of draft order. Re-signed players cannot be traded until two match days have passed.
+    - **4.3.4.3**&emsp;Resigned players cannot be cut until 2 match days after the draft.
 
 - **4.3.5**&emsp;If a signed player is willing and able to play in matches but is prevented from doing so by their franchise for a period of 2 match days, they may submit a ticket to be converted to an FA (subject to waivers when applicable).
 
@@ -80,9 +80,7 @@
 
 - **4.3.8**&emsp;Players that leave the league before their waiver period ends must re-enter the league on waivers with no tier restriction during the season or in the draft during the offseason.
 
-- **4.3.9**&emsp;Contracts are tracked by season, not by week.
-
-    - **4.3.9.1**&emsp;Contracts end at 11:59 PM ET on the day after the last official CSC match of a season.
+- **4.3.9**&emsp;Contracts are tracked by season, where contract lengths are updated at 11:59 PM ET on the day after the last official CSC match of a season.
 
 - **4.3.10**&emsp;When a player's contract ends they can agree to renew the contract with their existing franchise for an additional season.
 
@@ -108,7 +106,7 @@
 
 ## 4.4 Franchises, Teams, And Rosters
 
-- **4.4.1**&emsp;A team may not have more than five (5) players except during the period between the draft and the roster lock following the draft.
+- **4.4.1**&emsp;A team may not have more than five (5) players during the season except during the period between the draft and the roster lock following the draft.
 
 - **4.4.2**&emsp;A team may not have less than five (5) rostered players except during the period between the draft and the roster lock following the draft.
 
