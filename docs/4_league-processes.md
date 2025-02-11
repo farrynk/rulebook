@@ -54,7 +54,7 @@
 
     - **4.3.4.2**&emsp;Players may voluntarily opt out of this protection (including being placed on IR). This must be initiated by the player, otherwise A(GM)s may incur punishment from admins.
 
-    - **4.3.4.3**&emsp;Resigned players cannot be cut until 2 match days after the draft.
+    - **4.3.4.3**&emsp;Resigned players cannot be cut or traded until 2 match days after the draft.
 
 - **4.3.5**&emsp;If a signed player is willing and able to play in matches but is prevented from doing so by their franchise for a period of 2 match days, they may submit a ticket to be converted to an FA (subject to waivers when applicable).
 
