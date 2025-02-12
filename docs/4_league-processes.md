@@ -5,7 +5,9 @@
 ## 4.1 General League Notes
 
 - **4.1.1**&emsp;CSC is composed of a series of tiers and franchises. Each franchise has no more than one team in each tier.
+
 - **4.1.2**&emsp;From highest to lowest, the tiers are Premier, Elite, Challenger, Contender, Prospect, and Recruit. When the rules mention promotion, this refers to players moving from lower tiers to higher ones. When the rules mention demotion, this refers to players moving from higher tiers to lower tiers.
+
 - **4.1.3**&emsp;Each franchise has at most one team per tier. Teams do not move between tiers, but players may move between teams in different tiers.
 
 &emsp;
@@ -42,7 +44,7 @@
 
 ## 4.3 Player Contracts
 
-- **4.3.1**&emsp;Each player drafted will be given a 2-season contract with the team that selected them at the end of roster lock.
+- **4.3.1**&emsp;Each player drafted will be given a 2 season contract with the team that selected them at the end of roster lock.
 
 - **4.3.2**&emsp;Free agents signed by a team will go on a 2 season contract with that team.
 
@@ -60,9 +62,9 @@
 
 - **4.3.6**&emsp;Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM's approval.
 
-    - **4.3.6.2**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below:
+    - **4.3.6.1**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below:
 
-       - **4.3.6.2.1**&emsp;If this is the first time a player has forced a cut from a team and...
+       - **4.3.6.1.1**&emsp;If this is the first time a player has forced a cut from a team and...
 
             - There is evidence of a toxic environment or other valid reason as judged by admins, then the player will become a PFA for 1 match day. If the evidence is actionable upon former teammates this penalty may be waived by admins.
 
@@ -70,7 +72,7 @@
 
             - There is evidence that the player is refusing to play in order to force an exit and only play on one specific team, then the player will be a PFA for the remainder of the season.
 
-        - **4.3.6.2.2**&emsp;This is not their first incident in the current season and...
+        - **4.3.6.1.2**&emsp;This is not their first incident in the current season and...
 
             - There has been evidence of a toxic environment(s) or other valid reason(s) as judged by admins, then the player will be given punishment by admins' discretion.
 
@@ -88,29 +90,27 @@
 
     - **4.3.10.2**&emsp;If either party chooses not to renew the contract by the transaction deadline that player will become a free agent.
 
-- **4.3.12**&emsp;Any free agent signing or contract renewal requires proof of agreement to be posted in the GM's transaction channel.
+- **4.3.11**&emsp;Any free agent signing or contract renewal requires proof of agreement to be posted in the GM's transaction channel.
 
-- **4.3.13**&emsp;A GM and a player may agree to put a player on Inactive Reserve (IR) at any point in a season if that player needs to take an extended break. This allows a 6th player to join a roster temporarily.
+- **4.3.12**&emsp;A GM and a player may agree to put a player on Inactive Reserve (IR) at any point in a season if that player needs to take an extended break. This allows a 6th player to join the roster temporarily.
 
-    - **4.3.13.1**&emsp;Players must remain on IR for a duration of 4 consecutive match days or until the end of the current season, whichever occurs first.
+    - **4.3.12.1**&emsp;A player on IR is not allowed to play in official matches.
+    
+    - **4.3.12.2**&emsp;Players must remain on IR for a minimum of 4 consecutive match days or until the end of the current season, whichever occurs first. If the player was subbed out for any match days directly prior to going on IR, those match days will count towards the minimum duration.
 
-    - **4.3.13.2**&emsp;The MMR of a player on IR will not count towards a team's total MMR, but the MMR of a replacement player will. See [section 4.5](4_league-processes.md#45-mmr).
+    - **4.3.12.3**&emsp;The MMR of a player on IR will not count towards a team's total MMR, but the MMR of a replacement player will. See [section 4.5](4_league-processes.md#45-mmr).
 
-    - **4.3.13.3**&emsp;A player on IR is not allowed to play any matches until they are taken off IR.
+    - **4.3.12.4**&emsp;A player on IR may only be cut, moved to PFA, or brought back to the active roster; they may not be traded, promoted, or demoted.
 
-    - **4.3.13.4**&emsp;A player on IR may only be cut, moved to PFA, or brought back to the active roster, they may not be traded, promoted, or demoted.
-
-    - **4.3.13.5**&emsp;When a player on IR requests to return to the active roster and is eligible to do so, their GM must remove them from IR before 2 match days pass or cut them.
+    - **4.3.12.5**&emsp;When a player on IR requests to return to the active roster and is eligible to do so, their GM must remove them from IR before 2 match days pass or cut them.
 
 &emsp;
 
 ## 4.4 Franchises, Teams, And Rosters
 
-- **4.4.1**&emsp;A team may not have more than five (5) players during the season except during the period between the draft and the roster lock following the draft.
+- **4.4.1**&emsp;A team may not have more or less than five (5) active players during the season except during the period between the draft and the roster lock following the draft.
 
-- **4.4.2**&emsp;A team may not have less than five (5) rostered players except during the period between the draft and the roster lock following the draft.
-
-- **4.4.3**&emsp;A franchise may not have more than one admin on it (playing or non-playing).
+- **4.4.2**&emsp;A franchise may not have more than one admin on it.
 
 - **4.4.3**&emsp;Teams will still be allowed to play in a match should a team suffer a player loss outside of their control in the season, resulting in having 4 active players.
 
@@ -130,7 +130,7 @@
 
 - **4.5.3**&emsp;MMR caps will be recalculated at the beginning of every season prior to the draft.
 
-- **4.5.4**&emsp;A GM may choose to update a player's MMR to the minimum individual player MMR of a higher tier to allow that player to qualify for that tier. Refer to [Section 5.6](5_transactions.md#56-promotionrelegation) for promotion rules.
+- **4.5.4**&emsp;A GM may choose to promote a player, raising the player's MMR to the minimum individual MMR of a higher tier to allow that player to qualify for that tier. If that player is later demoted, their MMR will return to its original value. Refer to [Section 5.6](5_transactions.md#56-promotionrelegation) for promotion and demotion rules.
 
 
 ---
