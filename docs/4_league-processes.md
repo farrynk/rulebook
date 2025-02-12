@@ -110,7 +110,7 @@
 
 - **4.4.1**&emsp;A team may not have more than five (5) active rostered players during the season except during the period between the draft and the roster lock following the draft.
 
-- **4.4.2**A team may not have less than five (5) active rostered players during the season.
+- **4.4.2**&emsp;A team may not have less than five (5) active rostered players during the season.
 
 - **4.4.3**&emsp;Players on IR and substitutes are not counted as active rostered players.
 
