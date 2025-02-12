@@ -112,14 +112,6 @@
 
 - **4.4.2**&emsp;A franchise may not have more than one admin on it.
 
-- **4.4.3**&emsp;Teams will still be allowed to play in a match should a team suffer a player loss outside of their control in the season, resulting in having 4 active players.
-
-    - **4.4.3.1**&emsp;The roster should be back up to 5 players by the next match day, whether the missing player is cut or put on IR.
-
-    - **4.4.3.2**&emsp;The only transactions allowed for such teams are signing Free Agents and promoting from a lower tier.
-
-    - **4.4.3.3**&emsp;The MMR of the player or players lost is still active against the tier MMR cap until a replacement player or players are found.
-
 &emsp;
 
 ## 4.5 MMR
