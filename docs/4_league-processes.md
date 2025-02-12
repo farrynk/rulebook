@@ -110,13 +110,13 @@
 
 - **4.4.1**&emsp;A team may not have more than five (5) active rostered players during the season except during the period between the draft and the roster lock following the draft.
 
-    - **4.4.1.1**&emsp;Players on IR and substitutes are not counted as active rostered players.
+- **4.4.2**A team may not have less than five (5) active rostered players during the season.
 
-- **4.4.2**A team may not have less than five (5) active players during the season.
+- **4.4.3**&emsp;Players on IR and substitutes are not counted as active rostered players.
 
-- **4.4.3**&emsp;In the event that a team is unable to field a substitute for a missing player in an official match, that team may play with 4 players.
+- **4.4.4**&emsp;In the event that a team is unable to field a substitute for a missing player in an official match, that team may play with 4 players.
 
-- **4.4.4**&emsp;A franchise may not have more than one admin on it.
+- **4.4.5**&emsp;A franchise may not have more than one admin on it.
 
 &emsp;
 
