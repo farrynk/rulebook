@@ -6,22 +6,38 @@
 
 ### 7.1 The Draft
 
-- **7.1.1**&emsp;The draft is the first official event of each CSC season, assigning new players to franchises in a manner similar to professional sports entry drafts.  
-- **7.1.2**&emsp;The draft is divided into separate sections for each tier, with players assigned to a tier based on their MMR.  
-  - **7.1.2.1**&emsp;General Managers (GMs) will draft players only in the tiers where their franchise has teams.  
-  - **7.1.2.2**&emsp;MMR ranges for each tier and their corresponding keeper rounds will be determined and communicated by league staff and are finalized at numbers lock.  
-- **7.1.3**&emsp;The draft includes all players other than PFAs registered for the season who meet the eligibility requirement.  
-  - **7.1.3.1**&emsp;Former players returning after one season of inactivity will receive FA status (instead of DE) if they either completed their most recent contract in good standing or ended their last season as a regular FA. Inactivity is defined as not signing up or signing up as a PFA.  
-- **7.1.4**&emsp;League staff will assign an MMR to all players. Initially, access to this data may be restricted to GMs and applicable league staff.  
-- **7.1.5**&emsp;Free Agents who are unsigned by the draft deadline will become Draft Eligible (DE).   
-- **7.1.6**&emsp;Players signed to a team at the transaction deadline are referred to as keepers and will be assigned a round in the draft based on their MMR.  
-  - **7.1.6.1**&emsp;Each team is limited to a maximum of 3 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.  
-  - **7.1.6.2**&emsp;Keeper picks can only be in the first five rounds of the draft.  
-  - **7.1.6.3**&emsp;If a GM has more keepers in a designated round than available picks, they must select those players in earlier rounds. If this process exhausts the GM's picks and they cannot retain all their keepers, they must release players until they have sufficient picks. A lower pick cannot be used to retain a keeper assigned to a higher round.  
-  - **7.1.6.4**&emsp;GMs who also wish to play on their team will be drafted as any other keeper, based on their MMR.  
-- **7.1.7**&emsp;If a GM cannot be present for any portion of the draft they may designate another member of their franchise to pick on their behalf. These picks are treated the same as a GM pick. All existing rules regarding draft picks and private information still apply.  
-- **7.1.8**&emsp;If a franchise does not make a valid pick in a reasonable timeframe as determined by League Staff or is unable to continue the draft, their pick will be moved to the end of the round. If, at the end of the round, they are again unable to make a valid pick in a reasonable timeframe, they will automatically pick the highest MMR available player.  
-- **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.  
+- **7.1.1**&emsp;The draft is the first official event of each CSC season, assigning new players to franchises in a manner similar to professional sports entry drafts.
+  
+- **7.1.2**&emsp;The draft is divided into separate sections for each tier, with players assigned to a tier based on their MMR.
+  
+  - **7.1.2.1**&emsp;General Managers (GMs) will draft players only in the tiers where their franchise has teams.
+    
+  - **7.1.2.2**&emsp;MMR ranges for each tier and their corresponding keeper rounds will be determined and communicated by league staff and are finalized at numbers lock.
+    
+- **7.1.3**&emsp;The draft includes all players other than PFAs registered for the season who meet the eligibility requirement.
+  
+  - **7.1.3.1**&emsp;Former players returning after one season of inactivity will receive FA status (instead of DE) if they either completed their most recent contract in good standing or ended their last season as a regular FA. Inactivity is defined as not signing up or signing up as a PFA.
+    
+- **7.1.4**&emsp;League staff will assign an MMR to all players. Initially, access to this data may be restricted to GMs and applicable league staff.
+  
+- **7.1.5**&emsp;Free Agents who are unsigned by the draft deadline will become Draft Eligible (DE).
+  
+- **7.1.6**&emsp;Players signed to a team at the transaction deadline are referred to as keepers and will be assigned a round in the draft based on their MMR.
+  
+  - **7.1.6.1**&emsp;Each team is limited to a maximum of 3 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
+      
+  - **7.1.6.2**&emsp;Keeper picks can only be in the first five rounds of the draft.
+    
+  - **7.1.6.3**&emsp;If a GM has more keepers in a designated round than available picks, they must select those players in earlier rounds. If this process exhausts the GM's picks and they cannot retain all their keepers, they must release players until they have sufficient picks. A lower pick cannot be used to retain a keeper assigned to a higher round.
+    
+  - **7.1.6.4**&emsp;GMs who also wish to play on their team will be drafted as any other keeper, based on their MMR.
+    
+- **7.1.7**&emsp;If a GM cannot be present for any portion of the draft they may designate another member of their franchise to pick on their behalf. These picks are treated the same as a GM pick. All existing rules regarding draft picks and private information still apply.
+  
+- **7.1.8**&emsp;If a franchise does not make a valid pick in a reasonable timeframe as determined by League Staff or is unable to continue the draft, their pick will be moved to the end of the round. If, at the end of the round, they are again unable to make a valid pick in a reasonable timeframe, they will automatically pick the highest MMR available player.
+  
+- **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.
+  
 - **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#Preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#55-Cuts)
 
 &emsp;
