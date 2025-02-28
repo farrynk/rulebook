@@ -34,7 +34,7 @@
     
 - **7.1.7**&emsp;If a GM cannot be present for any portion of the draft they may designate another member of their franchise to pick on their behalf. These picks are treated the same as a GM pick. All existing rules regarding draft picks and private information still apply.
   
-- **7.1.8**&emsp;If a franchise does not make a valid pick in a reasonable timeframe as determined by League Staff or is unable to continue the draft, their pick will be moved to the end of the round. If, at the end of the round, they are again unable to make a valid pick in a reasonable timeframe, they will automatically pick the highest MMR available player.
+- **7.1.8**&emsp;If a franchise does not make a valid pick in a reasonable timeframe as determined by league staff or is unable to continue the draft, their pick will be moved to the end of the round. If, at the end of the round, they are again unable to make a valid pick in a reasonable timeframe, they will automatically pick the highest MMR available player.
   
 - **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.
   
