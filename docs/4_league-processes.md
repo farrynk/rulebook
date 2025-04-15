@@ -64,7 +64,7 @@
 
     - **4.3.6.1**&emsp;Players who are cut from their team for refusing to play will become a PFA as dictated below:
 
-       - **4.3.6.1.1**&emsp;If this is the first time a player has forced a cut from a team and...
+        - **4.3.6.1.1**&emsp;If this is the first time a player has forced a cut from a team and...
 
             - There is evidence of a toxic environment or other valid reason as judged by admins, then the player will become a PFA for 1 match day. If the evidence is actionable upon former teammates this penalty may be waived by admins.
 
