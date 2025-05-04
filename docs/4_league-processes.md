@@ -44,9 +44,9 @@
 
 ## 4.3 Player Contracts
 
-- **4.3.1**&emsp;Each player drafted will be given a 2 season contract with the team that selected them at the end of roster lock.
+- **4.3.1**&emsp;Each player drafted will be given a 1 season contract with the team that selected them at the end of roster lock.
 
-- **4.3.2**&emsp;Free agents signed by a team will go on a 2 season contract with that team.
+- **4.3.2**&emsp;Free agents signed by a team will go on a 1 season contract with that team.
 
 - **4.3.3**&emsp;If a season is ongoing when a contract is signed, that season counts as the first season of the contract, regardless of how much time remains in the season.
 
