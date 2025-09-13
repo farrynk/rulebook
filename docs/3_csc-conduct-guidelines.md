@@ -48,6 +48,8 @@
 
 - **3.3.3**&emsp;Sharing this knowledge intentionally may lead to severe consequences, up to and including permanent removal from CSC.
 
+- **3.3.4**&emsp;Staff may only use privileged or sensitive information for the purposes they have been given access to it for. For instance a TM may not use numbers access for scouting, nor act on pending roster changes for their own team.
+
 &emsp;
 
 ## 3.4 Cheating in CSC
@@ -114,3 +116,4 @@
     - **3.5.4.2**&emsp;If successful, the member may again seek any CSC position.
 
 ---
+
